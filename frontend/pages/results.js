@@ -1,6 +1,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import axios from 'axios';
 
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:4000';
+
 export default function Results() {
   const [docs, setDocs] = useState([]);
   const [selected, setSelected] = useState([]);
@@ -61,7 +63,7 @@ export default function Results() {
 
     try {
       const res = await axios.post(
-        'http://localhost:4000/api/expedientes/download',
+        `${API_URL}/api/expedientes/download`,
         { doc },
         { responseType: 'blob' }
       );
@@ -91,7 +93,7 @@ export default function Results() {
 
     try {
       const res = await axios.post(
-        'http://localhost:4000/api/expedientes/download-zip',
+        `${API_URL}/api/expedientes/download-zip`,
         { docs: selectedDocs, expediente },
         { responseType: 'blob' }
       );

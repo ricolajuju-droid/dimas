@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import axios from 'axios';
 
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:4000';
+
 export default function Home() {
   const [query, setQuery] = useState('');
   const [loading, setLoading] = useState(false);
@@ -16,7 +18,7 @@ export default function Home() {
       setLoading(true);
       setError('');
 
-      const res = await axios.post('http://localhost:4000/api/expedientes/search', {
+      const res = await axios.post(`${API_URL}/api/expedientes/search`, {
         query: query.trim(),
       });
 
