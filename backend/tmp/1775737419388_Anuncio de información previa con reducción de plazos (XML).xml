@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriorInformationNoticeTimeLimit xmlns:cbc="urn:dgpe:names:draft:codice:schema:xsd:CommonBasicComponents-2" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:cac="urn:dgpe:names:draft:codice:schema:xsd:CommonAggregateComponents-2" xmlns="urn:dgpe:names:draft:codice:schema:xsd:PriorInformationNoticeTimeLimit-2" xmlns:cbc-place-ext="urn:dgpe:names:draft:codice-place-ext:schema:xsd:CommonBasicComponents-2" xmlns:cac-place-ext="urn:dgpe:names:draft:codice-place-ext:schema:xsd:CommonAggregateComponents-2">
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>CODICE 2.8.0</cbc:CustomizationID>
+    <cbc:ProfileID>CiP 2.1</cbc:ProfileID>
+    <cbc:ID>0000016401757</cbc:ID>
+    <cbc:UUID>2025-000729786</cbc:UUID>
+    <cbc:ContractFolderID>1DGT2B000138</cbc:ContractFolderID>
+    <cbc:IssueDate>2025-06-25+02:00</cbc:IssueDate>
+    <cbc:IssueTime>11:30:30.352</cbc:IssueTime>
+    <cac:ContractingParty>
+        <cbc:ContractingPartyTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.10/ContractingAuthorityCode-2.10.gc" languageID="es" name="Autoridad estatal" listVersionID="2.10">1</cbc:ContractingPartyTypeCode>
+        <cbc:ActivityCode listURI="http://contrataciondelestado.es/codice/cl/2.10/ContractingAuthorityActivityCode-2.10.gc" languageID="es" name="Orden público y seguridad" listVersionID="2.10">3</cbc:ActivityCode>
+        <cbc:BuyerProfileURIID>https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;idBp=Ss3OJLUcIoQ%3D</cbc:BuyerProfileURIID>
+        <cac:Party>
+            <cbc:WebsiteURI>http://www.dgt.es/</cbc:WebsiteURI>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="ID_PLATAFORMA">10000160007941</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="NIF">Q2816003D</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:PartyName>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+            </cac:PartyName>
+            <cac:PostalAddress>
+                <cbc:AddressFormatCode listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc" languageID="es" name="Spanish Format" listVersionID="2007">1</cbc:AddressFormatCode>
+                <cbc:CityName>Madrid</cbc:CityName>
+                <cbc:PostalZone>28071</cbc:PostalZone>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                <cac:AddressLine>
+                    <cbc:Line>Josefa Valcárcel 28</cbc:Line>
+                </cac:AddressLine>
+                <cac:Country>
+                    <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:PostalAddress>
+            <cac:Contact>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+                <cbc:Telephone>913018252</cbc:Telephone>
+                <cbc:ElectronicMail>administracion.economica@dgt.es</cbc:ElectronicMail>
+            </cac:Contact>
+            <cac:Person>
+                <cbc:JobTitle>Secretaria General</cbc:JobTitle>
+            </cac:Person>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingTerms>
+        <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        <cbc:VariantConstraintIndicator>false</cbc:VariantConstraintIndicator>
+        <cbc:FundingProgramCode listURI="http://contrataciondelestado.es/codice/cl/2.08/FundingProgramCode-2.08.gc" languageID="es" name="No hay financiación con fondos de la UE" listVersionID="2.08">NO-EU</cbc:FundingProgramCode>
+        <cbc:EorderingIndicator>false</cbc:EorderingIndicator>
+        <cbc:EpaymentMeansIndicator>true</cbc:EpaymentMeansIndicator>
+        <cbc:ProcurementNationalLegislationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ProcurementNationalLegislationCode-2.08.gc" languageID="es" name="Ley 9/2017" listVersionID="2.08">3</cbc:ProcurementNationalLegislationCode>
+        <cbc:CVDScopeCode listURI="http://contrataciondelestado.es/codice/cl/2.10/CVDScope-2.10.gc" languageID="es" name="No aplica la Directiva de Vehículos Limpios" listVersionID="2.10">no-CVD</cbc:CVDScopeCode>
+        <cac:RequiredFinancialGuarantee>
+            <cbc:GuaranteeTypeCode listURI="http://contrataciondelestado.es/codice/cl/1.04/GuaranteeTypeCode-1.04.gc" languageID="es" name="Definitiva" listVersionID="2006">2</cbc:GuaranteeTypeCode>
+            <cbc:AmountRate>5</cbc:AmountRate>
+        </cac:RequiredFinancialGuarantee>
+        <cac:ProcurementLegislationDocumentReference>
+            <cbc:ID>2014/24/EU</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2014/24/EU</cbc:UUID>
+        </cac:ProcurementLegislationDocumentReference>
+        <cac:TendererQualificationRequest>
+            <cac:TechnicalEvaluationCriteria>
+                <cbc:EvaluationCriteriaTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.0/TechnicalCapabilityTypeCode-2.0.gc" name="Trabajos realizados" listVersionID="2.0">OSR-COMPTASK</cbc:EvaluationCriteriaTypeCode>
+                <cbc:Description>Conforme a  lo indicado en la cláusula  7.2 del cuadro de características del PCAP</cbc:Description>
+            </cac:TechnicalEvaluationCriteria>
+            <cac:FinancialEvaluationCriteria>
+                <cbc:EvaluationCriteriaTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.0/FinancialCapabilityTypeCode-2.0.gc" name="Cifra anual de negocio" listVersionID="2.0">5</cbc:EvaluationCriteriaTypeCode>
+                <cbc:Description>Conforme a  lo indicado en la cláusula  7.1 del cuadro de características del PCAP</cbc:Description>
+            </cac:FinancialEvaluationCriteria>
+            <cac:SpecificTendererRequirement>
+                <cbc:RequirementTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/DeclarationTypeCode-2.08.gc" languageID="es" name="Capacidad de obrar" listVersionID="2.08">1</cbc:RequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+        </cac:TendererQualificationRequest>
+        <cac:AwardingTerms>
+            <cac:AwardingCriteria>
+                <cbc:ID>2281667</cbc:ID>
+                <cbc:AwardingCriteriaTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.0/AwardingCriteriaCode-2.0.gc" languageID="es" name="Cuantificables Automáticamente" listVersionID="2.0">OBJ</cbc:AwardingCriteriaTypeCode>
+                <cbc:Description>Oferta económica</cbc:Description>
+                <cbc:AwardingCriteriaSubTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.09/AwardingCriteriaAutomaticallyEvaluatedSubTypeCode-2.09.gc" languageID="es" name="Precio" listVersionID="2.09">1</cbc:AwardingCriteriaSubTypeCode>
+                <cbc:WeightNumeric>80</cbc:WeightNumeric>
+                <cbc:StructuredValueIndicator>false</cbc:StructuredValueIndicator>
+            </cac:AwardingCriteria>
+            <cac:AwardingCriteria>
+                <cbc:ID>2281666</cbc:ID>
+                <cbc:AwardingCriteriaTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.0/AwardingCriteriaCode-2.0.gc" languageID="es" name="Juicio de Valor" listVersionID="2.0">SUBJ</cbc:AwardingCriteriaTypeCode>
+                <cbc:Description>Oferta técnica. Valoración técnica de la muestra y documentación técnica</cbc:Description>
+                <cbc:AwardingCriteriaSubTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.09/AwardingCriteriaNotAutomaticallyEvaluatedSubTypeCode-2.09.gc" languageID="es" name="Otros" listVersionID="2.09">99</cbc:AwardingCriteriaSubTypeCode>
+                <cbc:WeightNumeric>20</cbc:WeightNumeric>
+                <cbc:StructuredValueIndicator>false</cbc:StructuredValueIndicator>
+            </cac:AwardingCriteria>
+        </cac:AwardingTerms>
+        <cac:AdditionalInformationParty>
+            <cac:PartyName>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+            </cac:PartyName>
+            <cac:PostalAddress>
+                <cbc:AddressFormatCode listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc" languageID="es" name="Spanish Format" listVersionID="2007">1</cbc:AddressFormatCode>
+                <cbc:CityName>Madrid</cbc:CityName>
+                <cbc:PostalZone>28071</cbc:PostalZone>
+                <cac:AddressLine>
+                    <cbc:Line>Josefa Valcárcel 28</cbc:Line>
+                </cac:AddressLine>
+                <cac:Country>
+                    <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:PostalAddress>
+        </cac:AdditionalInformationParty>
+        <cac:DocumentProviderParty>
+            <cac:PartyName>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+            </cac:PartyName>
+            <cac:PostalAddress>
+                <cbc:AddressFormatCode listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc" languageID="es" name="Spanish Format" listVersionID="2007">1</cbc:AddressFormatCode>
+                <cbc:CityName>Madrid</cbc:CityName>
+                <cbc:PostalZone>28071</cbc:PostalZone>
+                <cac:AddressLine>
+                    <cbc:Line>Josefa Valcárcel 28</cbc:Line>
+                </cac:AddressLine>
+                <cac:Country>
+                    <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:PostalAddress>
+        </cac:DocumentProviderParty>
+        <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://contrataciondelestado.es</cbc:EndpointID>
+            <cac:PartyName>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+            </cac:PartyName>
+            <cac:PostalAddress>
+                <cbc:AddressFormatCode listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc" languageID="es" name="Spanish Format" listVersionID="2007">1</cbc:AddressFormatCode>
+                <cbc:CityName>Madrid</cbc:CityName>
+                <cbc:PostalZone>28071</cbc:PostalZone>
+                <cac:AddressLine>
+                    <cbc:Line>Josefa Valcárcel 28</cbc:Line>
+                </cac:AddressLine>
+                <cac:Country>
+                    <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:PostalAddress>
+        </cac:TenderRecipientParty>
+        <cac:AppealTerms>
+            <cac:PresentationPeriod>
+                <cbc:Description>15 días hábiles a partir del día siguiente al de publicación del anuncio de licitación en el perfil de contratante</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+                <cac:PartyName>
+                    <cbc:Name>Tribunal Administrativo Central de Recursos Contractuales</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                    <cbc:AddressFormatCode listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc" languageID="es" name="Spanish Format" listVersionID="2007">1</cbc:AddressFormatCode>
+                    <cbc:CityName>Madrid</cbc:CityName>
+                    <cbc:PostalZone>28071</cbc:PostalZone>
+                    <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                    <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                    <cac:AddressLine>
+                        <cbc:Line>General Perón, 38</cbc:Line>
+                    </cac:AddressLine>
+                    <cac:Country>
+                        <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:PostalAddress>
+            </cac:AppealReceiverParty>
+        </cac:AppealTerms>
+        <cac:Language>
+            <cbc:ID>es</cbc:ID>
+        </cac:Language>
+        <cac:InvoicingTerms>
+            <cbc:ElectronicInvoicingIndicator>true</cbc:ElectronicInvoicingIndicator>
+        </cac:InvoicingTerms>
+        <cac:ExclusionGrounds>
+            <cbc:ExclusionGroundTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.10/ExclusionGrounds-2.10.gc" languageID="es" name="Acuerdos con otros operadores económicos con el objetivo de falsear la competencia" listVersionID="2.10" listName="exclusion-ground">distorsion</cbc:ExclusionGroundTypeCode>
+            <cbc:Description>y los incluidos en la Parte III del Anexo 3 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+        </cac:ExclusionGrounds>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+        <cbc:Description>Abierto, de conformidad con los artículos 116, 131 y 156 a 158 de la LCSP</cbc:Description>
+        <cbc:ProcedureCode listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderingProcessCode-2.08.gc" languageID="es" name="Abierto" listVersionID="2.08">1</cbc:ProcedureCode>
+        <cbc:UrgencyCode listURI="http://contrataciondelestado.es/codice/cl/1.04/DiligenceTypeCode-1.04.gc" languageID="es" name="Ordinaria" listVersionID="2006">1</cbc:UrgencyCode>
+        <cbc:ExpenseCode listURI="http://contrataciondelestado.es/codice/cl/1.04/ExpenseTypeCode-1.04.gc" languageID="es" name="Anticipada" listVersionID="2006">2</cbc:ExpenseCode>
+        <cbc:PartPresentationCode listURI="http://contrataciondelestado.es/codice/cl/1.04/TenderPresentationCode-1.04.gc" languageID="es" name="A uno o varios lotes" listVersionID="2006">3</cbc:PartPresentationCode>
+        <cbc:ContractingSystemCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractingSystemTypeCode-2.08.gc" languageID="es" name="No aplica" listVersionID="2.08">0</cbc:ContractingSystemCode>
+        <cbc:SubmissionMethodCode listURI="http://contrataciondelestado.es/codice/cl/1.04/TenderDeliveryCode-1.04.gc" languageID="es" name="Electrónica" listVersionID="2006">1</cbc:SubmissionMethodCode>
+        <cbc:GovernmentProcurementAgreementConstraintIndicator>true</cbc:GovernmentProcurementAgreementConstraintIndicator>
+        <cbc:OverThresholdIndicator>true</cbc:OverThresholdIndicator>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>2025-000729786</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-000729786</cbc:UUID>
+            <cbc:IssueDate>2025-06-24+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc" languageID="es" name="Env�o de Anuncio de informaci�n previa con reducci�n de plazos al DOUE" listVersionID="2.11">ENVIO_PIN_RTL_DOUE</cbc:DocumentTypeCode>
+        </cac:NoticeDocumentReference>
+        <cac:AdditionalDocumentReference>
+            <cbc:ID>Detalle_Licitacion</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>Detalle_Licitacion</cbc:UUID>
+            <cbc:DocumentTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc" languageID="es" name="Documento de detalle del Expediente publicado en la Plataforma" listVersionID="2.11">LINK_EXP_PLACE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=k7mFlPUE740S7pcxhTeWOg%3D%3D</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:AdditionalDocumentReference>
+        <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+        </cac:AuctionTerms>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+        <cbc:Name>Suministro de prendas de uniformidad de servicio para el personal de la Agrupación de Tráfico de la Guardia Civil (7 Lotes)</cbc:Name>
+        <cbc:Description>Suministro de prendas de uniformidad de servicio para el personal de la Agrupación de Tráfico de la Guardia Civil (7 Lotes)</cbc:Description>
+        <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc" languageID="es" name="Suministros" listVersionID="2.08">1</cbc:TypeCode>
+        <cbc:SubTypeCode listURI="http://contrataciondelestado.es/codice/cl/1.04/GoodsContractCode-1.04.gc" languageID="es" name="Adquisición" listVersionID="2006">2</cbc:SubTypeCode>
+        <cbc:MixContractIndicator>false</cbc:MixContractIndicator>
+        <cac:BudgetAmount>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">2094500</cbc:EstimatedOverallContractAmount>
+            <cbc:TotalAmount currencyID="EUR">2534345</cbc:TotalAmount>
+            <cbc:TaxExclusiveAmount currencyID="EUR">2094500</cbc:TaxExclusiveAmount>
+        </cac:BudgetAmount>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Prendas de vestir, calzado, artículos de viaje y accesorios." listVersionID="2.04" listName="CPV">18000000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Chaquetones cortavientos." listVersionID="2.04" listName="CPV">18213000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Pantalones." listVersionID="2.04" listName="CPV">18234000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Camisetas." listVersionID="2.04" listName="CPV">18331000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Polos." listVersionID="2.04" listName="CPV">18333000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Uniformes militares." listVersionID="2.04" listName="CPV">35811300</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RealizedLocation>
+            <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+            <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+            <cac:Address>
+                <cac:Country>
+                    <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:Address>
+        </cac:RealizedLocation>
+        <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MON">7</cbc:DurationMeasure>
+        </cac:PlannedPeriod>
+        <cac:ContractExtension>
+            <cac:OptionValidityPeriod>
+                <cbc:Description>No se contempla la posibilidad de prorrogar el contrato</cbc:Description>
+            </cac:OptionValidityPeriod>
+        </cac:ContractExtension>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">1</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">1</cbc:ID>
+            <cbc:Name>Chaquetón de invierno</cbc:Name>
+            <cbc:Description>Chaquetón de invierno</cbc:Description>
+            <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc" languageID="es" name="Suministros" listVersionID="2.08">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">1035000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">1252350</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">1035000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Chaquetones cortavientos." listVersionID="2.04" listName="CPV">18213000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">2</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">2</cbc:ID>
+            <cbc:Name>Pantalón técnico</cbc:Name>
+            <cbc:Description>Pantalón técnico                  </cbc:Description>
+            <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc" languageID="es" name="Suministros" listVersionID="2.08">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">456500</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">552365</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">456500</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Pantalones." listVersionID="2.04" listName="CPV">18234000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">3</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">3</cbc:ID>
+            <cbc:Name>Camiseta sudadera</cbc:Name>
+            <cbc:Description>Camiseta sudadera    </cbc:Description>
+            <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc" languageID="es" name="Suministros" listVersionID="2.08">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">106000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">128260</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">106000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Camisetas." listVersionID="2.04" listName="CPV">18331000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">4</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">4</cbc:ID>
+            <cbc:Name>Polo manga corta</cbc:Name>
+            <cbc:Description>Polo manga corta    </cbc:Description>
+            <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc" languageID="es" name="Suministros" listVersionID="2.08">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">240000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">290400</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">240000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Polos." listVersionID="2.04" listName="CPV">18333000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">5</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">5</cbc:ID>
+            <cbc:Name>Polo manga larga</cbc:Name>
+            <cbc:Description>Polo manga larga     </cbc:Description>
+            <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc" languageID="es" name="Suministros" listVersionID="2.08">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">120000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">145200</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">120000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Polos." listVersionID="2.04" listName="CPV">18333000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">6</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">6</cbc:ID>
+            <cbc:Name>Uniforme de diario</cbc:Name>
+            <cbc:Description>Uniforme de diario     </cbc:Description>
+            <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc" languageID="es" name="Suministros" listVersionID="2.08">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">39000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">47190</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">39000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Uniformes militares." listVersionID="2.04" listName="CPV">35811300</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">7</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">7</cbc:ID>
+            <cbc:Name>Chaqueta técnica</cbc:Name>
+            <cbc:Description>Chaqueta técnica     </cbc:Description>
+            <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc" languageID="es" name="Suministros" listVersionID="2.08">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">98000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">118580</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">98000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc" name="Prendas de vestir, calzado, artículos de viaje y accesorios." listVersionID="2.04" listName="CPV">18000000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc" name="Madrid" listVersionID="2.12">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc" languageID="es" name="España" listVersionID="2.08">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+</PriorInformationNoticeTimeLimit>

@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "0000BKezxIxUtnWqdoho1HRjjwF:pronodo2",
+      "domain": ".contrataciondelestado.es",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WASReqURL",
+      "value": "https:///wps/myportal/plataforma/mis_licitaciones/!ut/p/z1/hU_JTsMwEP0WDjnicURpe40oKkGtEihK6lzQxBqCIY6t2AnL1-MuHCpRcZx5O1SwharDUTXolemwDbeops9pNkniNOPLbJFf8zSezGfr5P5qWcQgAmF2jjDnU9hABZU0mqlasxeU5Jg1vW_JsyK9LdMFiIi_ORtxR82gtKLOm4hr5VZKKo8yFCEX8fXpIz94JNYWij5YMIDyvyplT84MvSR4NKg3Q62VD0p4kChfaUUjtUfbQ-u2A2H6hqHd4Ux_7euf35MnT3f7NTji5xH7jYz4SWTw-Iu1U5_w7DvWl-Km_iZx8QNLKxT3/",
+      "domain": "contrataciondelestado.es",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

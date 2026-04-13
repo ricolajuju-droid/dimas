@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ContractAwardNotice xmlns:cbc="urn:dgpe:names:draft:codice:schema:xsd:CommonBasicComponents-2" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:cac="urn:dgpe:names:draft:codice:schema:xsd:CommonAggregateComponents-2" xmlns="urn:dgpe:names:draft:codice:schema:xsd:ContractAwardNotice-2" xmlns:cac-place-ext="urn:dgpe:names:draft:codice-place-ext:schema:xsd:CommonAggregateComponents-2" xmlns:cbc-place-ext="urn:dgpe:names:draft:codice-place-ext:schema:xsd:CommonBasicComponents-2">
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>CODICE 2.8.0</cbc:CustomizationID>
+    <cbc:ProfileID>CiP 2.1</cbc:ProfileID>
+    <cbc:ID>0000018387087</cbc:ID>
+    <cbc:UUID>2026-001726272</cbc:UUID>
+    <cbc:ContractFolderID>1DGT2B000138</cbc:ContractFolderID>
+    <cbc:IssueDate>2026-02-27+01:00</cbc:IssueDate>
+    <cbc:IssueTime>17:06:32.505</cbc:IssueTime>
+    <cbc:Note>Acuerdo del Director General de Tráfico por el que se aprueba la propuesta de adjudicación</cbc:Note>
+    <cac:MinutesDocumentReference>
+        <cbc:ID schemeName="ID_DOC_PLACE">1DGT2B000138 LOTE 2 Notificacion adjudicacion.pdf</cbc:ID>
+        <cbc:CopyIndicator>false</cbc:CopyIndicator>
+        <cbc:UUID>DOC202602271704131DGT2B000138 LOTE 2 Notificacion adjudicacion.pdf</cbc:UUID>
+        <cbc:DocumentTypeCode listVersionID="2.11" name="Documento de Acta de Adjudicación" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">ACTA_ADJ</cbc:DocumentTypeCode>
+        <cac:Attachment>
+            <cac:ExternalReference>
+                <cbc:URI>https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&amp;DocumentIdParam=2LW3OHqgruvNBWN%2BA8CjY0Vh7D1fXypFd3slxHjcECrda2hm2h1avizvWKu3g3F%2BlzunfpCl1AF3b2ZzjLwnZsfJFdglUZGe3F694LTOk0GB0nvVKRzfe4rpHcnlPhSZ</cbc:URI>
+                <cbc:DocumentHash>PmR0K8gG7eYb+8Ia8d3+vjpZF+s=</cbc:DocumentHash>
+            </cac:ExternalReference>
+        </cac:Attachment>
+    </cac:MinutesDocumentReference>
+    <cac:ContractingParty>
+        <cbc:ContractingPartyTypeCode listVersionID="2.10" name="Autoridad estatal" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.10/ContractingAuthorityCode-2.10.gc">1</cbc:ContractingPartyTypeCode>
+        <cbc:ActivityCode listVersionID="2.10" name="Orden público y seguridad" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.10/ContractingAuthorityActivityCode-2.10.gc">3</cbc:ActivityCode>
+        <cbc:BuyerProfileURIID>https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&amp;idBp=Ss3OJLUcIoQ%3D</cbc:BuyerProfileURIID>
+        <cac:Party>
+            <cbc:WebsiteURI>http://www.dgt.es/</cbc:WebsiteURI>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="ID_PLATAFORMA">10000160007941</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="NIF">Q2816003D</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:PartyName>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+            </cac:PartyName>
+            <cac:PostalAddress>
+                <cbc:AddressFormatCode listVersionID="2007" name="Spanish Format" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc">1</cbc:AddressFormatCode>
+                <cbc:CityName>Madrid</cbc:CityName>
+                <cbc:PostalZone>28071</cbc:PostalZone>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                <cac:AddressLine>
+                    <cbc:Line>Josefa Valcárcel 28</cbc:Line>
+                </cac:AddressLine>
+                <cac:Country>
+                    <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:PostalAddress>
+            <cac:Contact>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+                <cbc:Telephone>913018252</cbc:Telephone>
+                <cbc:ElectronicMail>administracion.economica@dgt.es</cbc:ElectronicMail>
+            </cac:Contact>
+            <cac:Person>
+                <cbc:JobTitle>Secretaria General</cbc:JobTitle>
+            </cac:Person>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingTerms>
+        <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        <cbc:VariantConstraintIndicator>false</cbc:VariantConstraintIndicator>
+        <cbc:FundingProgramCode listVersionID="2.08" name="No hay financiación con fondos de la UE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/FundingProgramCode-2.08.gc">NO-EU</cbc:FundingProgramCode>
+        <cbc:EcatalogIndicator>false</cbc:EcatalogIndicator>
+        <cbc:EorderingIndicator>false</cbc:EorderingIndicator>
+        <cbc:EpaymentMeansIndicator>true</cbc:EpaymentMeansIndicator>
+        <cbc:ProcurementNationalLegislationCode listVersionID="2.08" name="Ley 9/2017" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ProcurementNationalLegislationCode-2.08.gc">3</cbc:ProcurementNationalLegislationCode>
+        <cbc:CVDScopeCode listVersionID="2.10" name="No aplica la Directiva de Vehículos Limpios" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.10/CVDScope-2.10.gc">no-CVD</cbc:CVDScopeCode>
+        <cac:ProcurementLegislationDocumentReference>
+            <cbc:ID>2014/24/EU</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2014/24/EU</cbc:UUID>
+        </cac:ProcurementLegislationDocumentReference>
+        <cac:TendererQualificationRequest>
+            <cac:TechnicalEvaluationCriteria>
+                <cbc:EvaluationCriteriaTypeCode listVersionID="2.0" name="Trabajos realizados" listURI="http://contrataciondelestado.es/codice/cl/2.0/TechnicalCapabilityTypeCode-2.0.gc">OSR-COMPTASK</cbc:EvaluationCriteriaTypeCode>
+                <cbc:Description>Conforme a  lo indicado en la cláusula  7.2 del cuadro de características del PCAP</cbc:Description>
+            </cac:TechnicalEvaluationCriteria>
+            <cac:FinancialEvaluationCriteria>
+                <cbc:EvaluationCriteriaTypeCode listVersionID="2.0" name="Cifra anual de negocio" listURI="http://contrataciondelestado.es/codice/cl/2.0/FinancialCapabilityTypeCode-2.0.gc">5</cbc:EvaluationCriteriaTypeCode>
+                <cbc:Description>Conforme a  lo indicado en la cláusula  7.1 del cuadro de características del PCAP</cbc:Description>
+            </cac:FinancialEvaluationCriteria>
+            <cac:SpecificTendererRequirement>
+                <cbc:RequirementTypeCode listVersionID="2.08" name="Capacidad de obrar" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/DeclarationTypeCode-2.08.gc">1</cbc:RequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+        </cac:TendererQualificationRequest>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 1 Lote 1</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación administrativa" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">1</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>1</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 1. Documentación acreditativa del cumplimiento de los requisitos previos</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Declaración responsable múltiple contemplada en la cláusula 10.1.1 PCAP</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 4 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 1 Lote 2</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación administrativa" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">1</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>2</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 1. Documentación acreditativa del cumplimiento de los requisitos previos</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Declaración responsable múltiple contemplada en la cláusula 10.1.1 PCAP</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 4 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 1 Lote 3</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación administrativa" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">1</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>3</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 1. Documentación acreditativa del cumplimiento de los requisitos previos</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Declaración responsable múltiple contemplada en la cláusula 10.1.1. PCAP</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 4 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 1 Lote 4</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación administrativa" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">1</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>4</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 1. Documentación acreditativa del cumplimiento de los requisitos previos</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Declaración responsable múltiple contemplada en la cláusula 10.1.1. PCAP</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 4 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 1 Lote 5</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación administrativa" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">1</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>5</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 1. Documentación acreditativa del cumplimiento de los requisitos previos</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Declaración responsable múltiple contemplada en la cláusula 10.1.1. PCAP</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 4 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 1 Lote 6</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación administrativa" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">1</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>6</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 1. Documentación acreditativa del cumplimiento de los requisitos previos</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Declaración responsable múltiple contemplada en la cláusula 10.1.1. PCAP</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 4 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 1 Lote 7</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación administrativa" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">1</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>7</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 1. Documentación acreditativa del cumplimiento de los requisitos previos</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Declaración responsable múltiple contemplada en la cláusula 10.1.1. PCAP</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 4 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 2 Lote 1</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta técnica o evaluable mediante juicio de valor" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">2</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>1</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 2. Oferta técnica (evaluable mediante juicios de valor)</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta técnica (evaluable mediante juicios de valor)</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-B del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 2 Lote 2</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta técnica o evaluable mediante juicio de valor" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">2</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>2</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 2. Oferta técnica (evaluable mediante juicios de valor)</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta técnica (evaluable mediante juicios de valor)</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-B del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 2 Lote 3</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta técnica o evaluable mediante juicio de valor" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">2</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>3</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 2. Oferta técnica (evaluable mediante juicios de valor)</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta técnica (evaluable mediante juicios de valor)</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-B del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 2 Lote 4</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta técnica o evaluable mediante juicio de valor" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">2</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>4</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 2. Oferta técnica (evaluable mediante juicios de valor)</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta técnica (evaluable mediante juicios de valor)</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-B del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 2 Lote 5</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta técnica o evaluable mediante juicio de valor" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">2</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>5</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 2. Oferta técnica (evaluable mediante juicios de valor)</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta técnica (evaluable mediante juicios de valor)</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-B del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 2 Lote 6</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta técnica o evaluable mediante juicio de valor" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">2</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>6</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 2. Oferta técnica (evaluable mediante juicios de valor)</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta técnica (evaluable mediante juicios de valor)</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-B del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 2 Lote 7</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta técnica o evaluable mediante juicio de valor" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">2</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>7</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº 2. Oferta técnica (evaluable mediante juicios de valor)</cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta técnica (evaluable mediante juicios de valor)</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-B del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 3 Lote 1</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta económica o evaluable mediante fórmulas" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">3</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>1</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº3 Oferta económica </cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta económica</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-A del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 3 Lote 2</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta económica o evaluable mediante fórmulas" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">3</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>2</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº3 Oferta económica </cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta económica</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-A del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 3 Lote 3</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta económica o evaluable mediante fórmulas" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">3</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>3</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº3 Oferta económica </cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta económica</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-A del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 3 Lote 4</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta económica o evaluable mediante fórmulas" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">3</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>4</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº3 Oferta económica </cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta económica</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-A del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 3 Lote 5</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta económica o evaluable mediante fórmulas" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">3</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>5</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº3 Oferta económica </cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta económica</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-A del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 3 Lote 6</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta económica o evaluable mediante fórmulas" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">3</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>6</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº3 Oferta económica </cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta económica</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-A del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre 3 Lote 7</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Oferta económica o evaluable mediante fórmulas" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">3</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>7</cbc:ProcurementProjectLotID>
+            <cbc:OpenEventID>Apertura sobre electrónico nº3 Oferta económica </cbc:OpenEventID>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Oferta económica</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Según el modelo contemplado en el Anexo 2-A del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre muestra Lote 1</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación adicional" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">4</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>1</cbc:ProcurementProjectLotID>
+            <cbc:Description>Los licitadores deberán presentar las muestras y la documentación indicada en las cláusulas 10.1.1. y  12.2. del Cuadro de Características del Pliego de Cláusulas Administrativas Particulares, en el Registro de la Dirección General de Tráfico, situado en la C/ Josefa Válcarcel, nº 28 28071 (Madrid), dentro del plazo de presentación de ofertas, incluyendo la etiqueta  que se genera en la " Herramienta de Preparación de Ofertas".</cbc:Description>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre muestra Lote 2</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación adicional" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">4</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>2</cbc:ProcurementProjectLotID>
+            <cbc:Description>Los licitadores deberán presentar las muestras y la documentación indicada en las cláusulas 10.1.1. y  12.2. del Cuadro de Características del Pliego de Cláusulas Administrativas Particulares, en el Registro de la Dirección General de Tráfico, situado en la C/ Josefa Válcarcel, nº 28 28071 (Madrid), dentro del plazo de presentación de ofertas, incluyendo la etiqueta  que se genera en la " Herramienta de Preparación de Ofertas".</cbc:Description>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre muestra Lote 3</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación adicional" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">4</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>3</cbc:ProcurementProjectLotID>
+            <cbc:Description>Los licitadores deberán presentar las muestras y la documentación indicada en las cláusulas 10.1.1. y  12.2. del Cuadro de Características del Pliego de Cláusulas Administrativas Particulares, en el Registro de la Dirección General de Tráfico, situado en la C/ Josefa Válcarcel, nº 28 28071 (Madrid), dentro del plazo de presentación de ofertas, incluyendo la etiqueta  que se genera en la " Herramienta de Preparación de Ofertas".</cbc:Description>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre muestra Lote 4</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación adicional" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">4</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>4</cbc:ProcurementProjectLotID>
+            <cbc:Description>Los licitadores deberán presentar las muestras y la documentación indicada en las cláusulas 10.1.1. y 12.2. del&#xD;
+Cuadro de Características del Pliego de Cláusulas Administrativas Particulares, en el Registro de la Dirección General de&#xD;
+Tráfico, situado en la C/ Josefa Válcarcel, nº 28 28071 (Madrid), dentro del plazo de presentación de ofertas, incluyendo la&#xD;
+etiqueta que se genera en la " Herramienta de Preparación de Ofertas"</cbc:Description>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre muestra Lote 5</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación adicional" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">4</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>5</cbc:ProcurementProjectLotID>
+            <cbc:Description>Los licitadores deberán presentar las muestras y la documentación indicada en las cláusulas 10.1.1. y  12.2. del Cuadro de Características del Pliego de Cláusulas Administrativas Particulares, en el Registro de la Dirección General de Tráfico, situado en la C/ Josefa Válcarcel, nº 28 28071 (Madrid), dentro del plazo de presentación de ofertas, incluyendo la etiqueta  que se genera en la " Herramienta de Preparación de Ofertas".</cbc:Description>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre muestra Lote 6</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación adicional" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">4</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>6</cbc:ProcurementProjectLotID>
+            <cbc:Description>Los licitadores deberán presentar las muestras y la documentación indicada en las cláusulas 10.1.1. y  12.2. del Cuadro de Características del Pliego de Cláusulas Administrativas Particulares, en el Registro de la Dirección General de Tráfico, situado en la C/ Josefa Válcarcel, nº 28 28071 (Madrid), dentro del plazo de presentación de ofertas, incluyendo la etiqueta  que se genera en la " Herramienta de Preparación de Ofertas".</cbc:Description>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Sobre muestra Lote 7</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Documentación adicional" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">4</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>7</cbc:ProcurementProjectLotID>
+            <cbc:Description>Los licitadores deberán presentar las muestras y la documentación indicada en las cláusulas 10.1.1. y  12.2. del Cuadro de Características del Pliego de Cláusulas Administrativas Particulares, en el Registro de la Dirección General de Tráfico, situado en la C/ Josefa Válcarcel, nº 28 28071 (Madrid), dentro del plazo de presentación de ofertas, incluyendo la etiqueta  que se genera en la " Herramienta de Preparación de Ofertas".</cbc:Description>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Requerim doc adjud 1DGT2B000138 Lote 1 CLIMB WEAR </cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Requerimiento de documentación" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">6</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>1</cbc:ProcurementProjectLotID>
+            <cbc:Description>Requerim doc adjud 1DGT2B000138 Lote 1 CLIMB WEAR </cbc:Description>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Requerim doc adjud 1DGT2B000138 Lote 1 CLIMB WEAR </cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Requerim doc adjud 1DGT2B000138 Lote 1 CLIMB WEAR </cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Requerim doc adjud 1DGT2B000138 Lote 2 SAGRES </cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Requerimiento de documentación" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">6</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>2</cbc:ProcurementProjectLotID>
+            <cbc:Description>Requerim doc adjud 1DGT2B000138 Lote 2 SAGRES </cbc:Description>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Requerim doc adjud 1DGT2B000138 Lote 2 SAGRES </cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Requerim doc adjud 1DGT2B000138 Lote 2 SAGRES </cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Requerim doc adjud 1DGT2B000138 Lote 7 TEXTIL DISTRIBUIDORA </cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Requerimiento de documentación" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">6</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>7</cbc:ProcurementProjectLotID>
+            <cbc:Description>Requerim doc adjud 1DGT2B000138 Lote 7 TEXTIL DISTRIBUIDORA </cbc:Description>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>true</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Requerim doc adjud 1DGT2B000138 Lote 7 TEXTIL DISTRIBUIDORA </cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Requerim doc adjud 1DGT2B000138 Lote 7 TEXTIL DISTRIBUIDORA </cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Requerim subsan adm 1DGT2B000138 Lotes 6 NOHO LIVING</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Solicitud de Información Adicional" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">8</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>6</cbc:ProcurementProjectLotID>
+            <cbc:Description>Requerim subsan adm 1DGT2B000138 Lotes 6 NOHO LIVING</cbc:Description>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Requerim subsan adm 1DGT2B000138 Lote 6 NOHO LIVING</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Requerim subsan adm 1DGT2B000138 Lote 6 NOHO LIVING</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Requerim aclaracion tec 1DGT2B000138 Lote 3 ANTONIO RUS</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Solicitud de Aclaración" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">9</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>3</cbc:ProcurementProjectLotID>
+            <cbc:Description>Requerim aclaracion tec 1DGT2B000138 Lote 3 ANTONIO RUS</cbc:Description>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Requerim aclaracion tec 1DGT2B000138 Lote 3 ANTONIO RUS</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Requerim aclaracion tec 1DGT2B000138 Lote 3 ANTONIO RUS</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Requerim aclaracion tec 1DGT2B000138 Lote 4 ANTONIO RUS</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Solicitud de Aclaración" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">9</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>4</cbc:ProcurementProjectLotID>
+            <cbc:Description>Requerim aclaracion tec 1DGT2B000138 Lote 4 ANTONIO RUS</cbc:Description>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Requerim aclaracion tec 1DGT2B000138 Lote 4 ANTONIO RUS</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Requerim aclaracion tec 1DGT2B000138 Lote 4 ANTONIO RUS</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:TenderPreparation>
+            <cbc:TenderEnvelopeID>Requerim aclaracion tec 1DGT2B000138 Lote 5 ANTONIO RUS</cbc:TenderEnvelopeID>
+            <cbc:TenderEnvelopeTypeCode listVersionID="2.08" name="Solicitud de Aclaración" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderEnvelopeTypeCode-2.08.gc">9</cbc:TenderEnvelopeTypeCode>
+            <cbc:ProcurementProjectLotID>5</cbc:ProcurementProjectLotID>
+            <cbc:Description>Requerim aclaracion tec 1DGT2B000138 Lote 5 ANTONIO RUS</cbc:Description>
+            <cac:DocumentTenderRequirement>
+                <cbc:RequiredSignatureIndicator>true</cbc:RequiredSignatureIndicator>
+                <cbc:MandatoryIndicator>false</cbc:MandatoryIndicator>
+                <cac:TemplateDocumentReference>
+                    <cbc:ID>Requerim aclaracion tec 1DGT2B000138 Lote 5 ANTONIO RUS</cbc:ID>
+                    <cbc:DocumentTypeCode listVersionID="2.07" name="Documento requerido" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.07/EvidenceDocumentTypeCode-2.07.gc">DOC_REQUIRED</cbc:DocumentTypeCode>
+                    <cbc:DocumentType>PDF</cbc:DocumentType>
+                    <cbc:Description>Requerim aclaracion tec 1DGT2B000138 Lote 5 ANTONIO RUS</cbc:Description>
+                </cac:TemplateDocumentReference>
+            </cac:DocumentTenderRequirement>
+        </cac:TenderPreparation>
+        <cac:ContractExecutionRequirement>
+            <cbc:Name>Consideraciones de tipo medioambiental</cbc:Name>
+            <cbc:ExecutionRequirementCode listVersionID="2.08" name="Consideraciones de tipo medioambiental" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ExecutionRequirementCode-2.08.gc">1</cbc:ExecutionRequirementCode>
+            <cbc:Description>Condición especial de ejecución del contrato de carácter social, ético o medioambiental contemplada en el apartado 17 del cuadro de características del PCAP</cbc:Description>
+        </cac:ContractExecutionRequirement>
+        <cac:AwardingTerms>
+            <cac:AwardingCriteria>
+                <cbc:ID>2281667</cbc:ID>
+                <cbc:AwardingCriteriaTypeCode listVersionID="2.0" name="Cuantificables Automáticamente" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.0/AwardingCriteriaCode-2.0.gc">OBJ</cbc:AwardingCriteriaTypeCode>
+                <cbc:Description>Oferta económica</cbc:Description>
+                <cbc:AwardingCriteriaSubTypeCode listVersionID="2.09" name="Precio" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.09/AwardingCriteriaAutomaticallyEvaluatedSubTypeCode-2.09.gc">1</cbc:AwardingCriteriaSubTypeCode>
+                <cbc:WeightNumeric>80</cbc:WeightNumeric>
+                <cbc:StructuredValueIndicator>false</cbc:StructuredValueIndicator>
+            </cac:AwardingCriteria>
+            <cac:AwardingCriteria>
+                <cbc:ID>2281666</cbc:ID>
+                <cbc:AwardingCriteriaTypeCode listVersionID="2.0" name="Juicio de Valor" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.0/AwardingCriteriaCode-2.0.gc">SUBJ</cbc:AwardingCriteriaTypeCode>
+                <cbc:Description>Oferta técnica. Valoración técnica de la muestra y documentación técnica</cbc:Description>
+                <cbc:AwardingCriteriaSubTypeCode listVersionID="2.09" name="Otros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.09/AwardingCriteriaNotAutomaticallyEvaluatedSubTypeCode-2.09.gc">99</cbc:AwardingCriteriaSubTypeCode>
+                <cbc:WeightNumeric>20</cbc:WeightNumeric>
+                <cbc:StructuredValueIndicator>false</cbc:StructuredValueIndicator>
+            </cac:AwardingCriteria>
+        </cac:AwardingTerms>
+        <cac:AdditionalInformationParty>
+            <cac:PartyName>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+            </cac:PartyName>
+            <cac:PostalAddress>
+                <cbc:AddressFormatCode listVersionID="2007" name="Spanish Format" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc">1</cbc:AddressFormatCode>
+                <cbc:CityName>Madrid</cbc:CityName>
+                <cbc:PostalZone>28071</cbc:PostalZone>
+                <cac:AddressLine>
+                    <cbc:Line>Josefa Valcárcel 28</cbc:Line>
+                </cac:AddressLine>
+                <cac:Country>
+                    <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:PostalAddress>
+        </cac:AdditionalInformationParty>
+        <cac:DocumentProviderParty>
+            <cac:PartyName>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+            </cac:PartyName>
+            <cac:PostalAddress>
+                <cbc:AddressFormatCode listVersionID="2007" name="Spanish Format" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc">1</cbc:AddressFormatCode>
+                <cbc:CityName>Madrid</cbc:CityName>
+                <cbc:PostalZone>28071</cbc:PostalZone>
+                <cac:AddressLine>
+                    <cbc:Line>Josefa Valcárcel 28</cbc:Line>
+                </cac:AddressLine>
+                <cac:Country>
+                    <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:PostalAddress>
+        </cac:DocumentProviderParty>
+        <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://contrataciondelestado.es</cbc:EndpointID>
+            <cac:PartyName>
+                <cbc:Name>Dirección General de Tráfico</cbc:Name>
+            </cac:PartyName>
+            <cac:PostalAddress>
+                <cbc:AddressFormatCode listVersionID="2007" name="Spanish Format" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc">1</cbc:AddressFormatCode>
+                <cbc:CityName>Madrid</cbc:CityName>
+                <cbc:PostalZone>28071</cbc:PostalZone>
+                <cac:AddressLine>
+                    <cbc:Line>Josefa Valcárcel 28</cbc:Line>
+                </cac:AddressLine>
+                <cac:Country>
+                    <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:PostalAddress>
+        </cac:TenderRecipientParty>
+        <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="MON">2</cbc:DurationMeasure>
+        </cac:TenderValidityPeriod>
+        <cac:AppealTerms>
+            <cac:PresentationPeriod>
+                <cbc:Description>15 días hábiles a partir del día siguiente al de publicación de los Pliegos  en el perfil de contratante</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+                <cac:PartyName>
+                    <cbc:Name>Tribunal Administrativo Central de Recursos Contractuales</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                    <cbc:AddressFormatCode listVersionID="2007" name="Spanish Format" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc">1</cbc:AddressFormatCode>
+                    <cbc:CityName>Madrid</cbc:CityName>
+                    <cbc:PostalZone>28071</cbc:PostalZone>
+                    <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                    <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                    <cac:AddressLine>
+                        <cbc:Line>General Perón, 38</cbc:Line>
+                    </cac:AddressLine>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:PostalAddress>
+            </cac:AppealReceiverParty>
+        </cac:AppealTerms>
+        <cac:Language>
+            <cbc:ID>es</cbc:ID>
+        </cac:Language>
+        <cac:InvoicingTerms>
+            <cbc:ElectronicInvoicingIndicator>true</cbc:ElectronicInvoicingIndicator>
+        </cac:InvoicingTerms>
+        <cac:ExclusionGrounds>
+            <cbc:ExclusionGroundTypeCode listName="exclusion-ground" listVersionID="2.10" name="Acuerdos con otros operadores económicos con el objetivo de falsear la competencia" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.10/ExclusionGrounds-2.10.gc">distorsion</cbc:ExclusionGroundTypeCode>
+            <cbc:Description>y los incluidos en la Parte III del Anexo 3 del Pliego de Cláusulas Administrativas Particulares</cbc:Description>
+        </cac:ExclusionGrounds>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+        <cbc:Description>Abierto, de conformidad con los artículos 116, 131 y 156 a 158 de la LCSP</cbc:Description>
+        <cbc:ProcedureCode listVersionID="2.08" name="Abierto" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/TenderingProcessCode-2.08.gc">1</cbc:ProcedureCode>
+        <cbc:UrgencyCode listVersionID="2006" name="Ordinaria" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/DiligenceTypeCode-1.04.gc">1</cbc:UrgencyCode>
+        <cbc:ExpenseCode listVersionID="2006" name="Anticipada" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/ExpenseTypeCode-1.04.gc">2</cbc:ExpenseCode>
+        <cbc:PartPresentationCode listVersionID="2006" name="A uno o varios lotes" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/TenderPresentationCode-1.04.gc">3</cbc:PartPresentationCode>
+        <cbc:ContractingSystemCode listVersionID="2.08" name="No aplica" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractingSystemTypeCode-2.08.gc">0</cbc:ContractingSystemCode>
+        <cbc:SubmissionMethodCode listVersionID="2006" name="Electrónica" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/TenderDeliveryCode-1.04.gc">1</cbc:SubmissionMethodCode>
+        <cbc:GovernmentProcurementAgreementConstraintIndicator>true</cbc:GovernmentProcurementAgreementConstraintIndicator>
+        <cbc:MaximumLotPresentationQuantity>7</cbc:MaximumLotPresentationQuantity>
+        <cbc:MaximumTendererAwardedLotsQuantity>7</cbc:MaximumTendererAwardedLotsQuantity>
+        <cbc:OverThresholdIndicator>true</cbc:OverThresholdIndicator>
+        <cac:DocumentAvailabilityPeriod>
+            <cbc:EndDate>2025-12-15+01:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00.000</cbc:EndTime>
+        </cac:DocumentAvailabilityPeriod>
+        <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2025-12-15+01:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00.000</cbc:EndTime>
+        </cac:TenderSubmissionDeadlinePeriod>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>2025-000729786</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:IssueDate>2025-06-24+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Env�o de Anuncio de informaci�n previa con reducci�n de plazos al DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">ENVIO_PIN_RTL_DOUE</cbc:DocumentTypeCode>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>407761-2025</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:IssueDate>2025-06-25+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Anuncio de informaci�n previa con reducci�n de plazos publicado en DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">PUB_PIN_RTL_DOUE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>https://ted.europa.eu/es/notice/-/detail/407761-2025</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID schemeName="ENVIO_CN_DOUE">2025-000938835</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-000938835</cbc:UUID>
+            <cbc:IssueDate>2025-08-13+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Envío de Anuncio de Licitación al DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">ENVIO_CN_DOUE</cbc:DocumentTypeCode>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>536793-2025</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-000938835</cbc:UUID>
+            <cbc:IssueDate>2025-08-18+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Anuncio de Licitación publicado en DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">PUB_CN_DOUE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>https://ted.europa.eu/es/notice/-/detail/536793-2025</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>2025-000938835</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-000938835</cbc:UUID>
+            <cbc:IssueDate>2025-08-21+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Anuncio de Licitación publicado en BOE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">PUB_CN_BOE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>http://www.boe.es/boe/dias/2025/08/21/pdfs/BOE-B-2025-30058.pdf</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID schemeName="ENVIO_CN_DOUE">2025-001144333</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-001144333</cbc:UUID>
+            <cbc:IssueDate>2025-10-10+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Envío de Anuncio de Licitación al DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">ENVIO_CN_DOUE</cbc:DocumentTypeCode>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>674330-2025</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-001144333</cbc:UUID>
+            <cbc:IssueDate>2025-10-14+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Anuncio de Licitación publicado en DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">PUB_CN_DOUE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>https://ted.europa.eu/es/notice/-/detail/674330-2025</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>2025-001144333</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-001144333</cbc:UUID>
+            <cbc:IssueDate>2025-10-17+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Anuncio de Licitación publicado en BOE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">PUB_CN_BOE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>http://www.boe.es/boe/dias/2025/10/17/pdfs/BOE-B-2025-37443.pdf</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID schemeName="ENVIO_CN_DOUE">2025-001175046</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-001175046</cbc:UUID>
+            <cbc:IssueDate>2025-10-20+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Envío de Anuncio de Licitación al DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">ENVIO_CN_DOUE</cbc:DocumentTypeCode>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>694081-2025</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-001175046</cbc:UUID>
+            <cbc:IssueDate>2025-10-21+02:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Anuncio de Licitación publicado en DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">PUB_CN_DOUE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>https://ted.europa.eu/es/notice/-/detail/694081-2025</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID schemeName="ENVIO_CN_DOUE">2025-001209700</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-001209700</cbc:UUID>
+            <cbc:IssueDate>2025-10-27+01:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Envío de Anuncio de Licitación al DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">ENVIO_CN_DOUE</cbc:DocumentTypeCode>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>709402-2025</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-001209700</cbc:UUID>
+            <cbc:IssueDate>2025-10-28+01:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Anuncio de Licitación publicado en DOUE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">PUB_CN_DOUE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>https://ted.europa.eu/es/notice/-/detail/709402-2025</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:NoticeDocumentReference>
+        <cac:NoticeDocumentReference>
+            <cbc:ID>2025-001175046</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>2025-001209700</cbc:UUID>
+            <cbc:IssueDate>2025-10-30+01:00</cbc:IssueDate>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Anuncio de Licitación publicado en BOE" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">PUB_CN_BOE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>http://www.boe.es/boe/dias/2025/10/30/pdfs/BOE-B-2025-39469.pdf</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:NoticeDocumentReference>
+        <cac:AdditionalDocumentReference>
+            <cbc:ID>Detalle_Licitacion</cbc:ID>
+            <cbc:CopyIndicator>false</cbc:CopyIndicator>
+            <cbc:UUID>Detalle_Licitacion</cbc:UUID>
+            <cbc:DocumentTypeCode listVersionID="2.11" name="Documento de detalle del Expediente publicado en la Plataforma" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingDocumentTypeCode-2.11.gc">LINK_EXP_PLACE</cbc:DocumentTypeCode>
+            <cac:Attachment>
+                <cac:ExternalReference>
+                    <cbc:URI>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=k7mFlPUE740S7pcxhTeWOg%3D%3D</cbc:URI>
+                </cac:ExternalReference>
+            </cac:Attachment>
+        </cac:AdditionalDocumentReference>
+        <cac:OpenTenderEvent>
+            <cbc:IdentificationID>Apertura sobre electrónico nº 1. Documentación acreditativa del cumplimiento de los requisitos previos</cbc:IdentificationID>
+            <cbc:OccurrenceDate>2026-01-14+01:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>08:16:00.000</cbc:OccurrenceTime>
+            <cbc:TypeCode listVersionID="2.09" name="Apertura sobre administrativo" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.09/EventTypeCode-2.09.gc">1</cbc:TypeCode>
+            <cac:OccurrenceLocation>
+                <cbc:Description>Jefatura Central de Trafico</cbc:Description>
+                <cac:Address>
+                    <cbc:AddressFormatCode listVersionID="2007" name="Spanish Format" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc">1</cbc:AddressFormatCode>
+                    <cbc:CityName>Madrid</cbc:CityName>
+                    <cbc:PostalZone>28071</cbc:PostalZone>
+                    <cac:AddressLine>
+                        <cbc:Line>Calle Josefa Valcárcel 28</cbc:Line>
+                    </cac:AddressLine>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:OccurrenceLocation>
+            <cac:AttendanceConditions>
+                <cbc:AttendanceRestrictionCode listVersionID="2.05" name="Privado" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.05/AttendanceRestrictionCode-2.05.gc">2</cbc:AttendanceRestrictionCode>
+            </cac:AttendanceConditions>
+        </cac:OpenTenderEvent>
+        <cac:OpenTenderEvent>
+            <cbc:IdentificationID>Apertura sobre electrónico nº3 Oferta económica </cbc:IdentificationID>
+            <cbc:OccurrenceDate>2026-02-25+01:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>10:00:00.000</cbc:OccurrenceTime>
+            <cbc:TypeCode listVersionID="2.09" name="Apertura sobre oferta económica" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.09/EventTypeCode-2.09.gc">4</cbc:TypeCode>
+            <cac:OccurrenceLocation>
+                <cbc:Description>JEFATURA CENTRAL DE TRAFICO</cbc:Description>
+                <cac:Address>
+                    <cbc:AddressFormatCode listVersionID="2007" name="Spanish Format" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc">1</cbc:AddressFormatCode>
+                    <cbc:CityName>Madrid</cbc:CityName>
+                    <cbc:PostalZone>28071</cbc:PostalZone>
+                    <cac:AddressLine>
+                        <cbc:Line>Calle Josefa Valcárcel 28</cbc:Line>
+                    </cac:AddressLine>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:OccurrenceLocation>
+            <cac:AttendanceConditions>
+                <cbc:AttendanceRestrictionCode listVersionID="2.05" name="Privado" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.05/AttendanceRestrictionCode-2.05.gc">2</cbc:AttendanceRestrictionCode>
+            </cac:AttendanceConditions>
+        </cac:OpenTenderEvent>
+        <cac:OpenTenderEvent>
+            <cbc:IdentificationID>Apertura sobre electrónico nº 2. Oferta técnica (evaluable mediante juicios de valor)</cbc:IdentificationID>
+            <cbc:OccurrenceDate>2026-01-14+01:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>10:00:00.000</cbc:OccurrenceTime>
+            <cbc:TypeCode listVersionID="2.09" name="Apertura sobre oferta técnica" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.09/EventTypeCode-2.09.gc">2</cbc:TypeCode>
+            <cac:OccurrenceLocation>
+                <cbc:Description>Jefatura Central de Tráfico</cbc:Description>
+                <cac:Address>
+                    <cbc:AddressFormatCode listVersionID="2007" name="Spanish Format" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/AddressFormatCode-1.0.gc">1</cbc:AddressFormatCode>
+                    <cbc:CityName>Madrid</cbc:CityName>
+                    <cbc:PostalZone>28071</cbc:PostalZone>
+                    <cac:AddressLine>
+                        <cbc:Line>Calle Josefa Valcárcel 28</cbc:Line>
+                    </cac:AddressLine>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:OccurrenceLocation>
+            <cac:AttendanceConditions>
+                <cbc:AttendanceRestrictionCode listVersionID="2.05" name="Privado" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.05/AttendanceRestrictionCode-2.05.gc">2</cbc:AttendanceRestrictionCode>
+            </cac:AttendanceConditions>
+        </cac:OpenTenderEvent>
+        <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+        </cac:AuctionTerms>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+        <cbc:Name>Suministro de prendas de uniformidad de servicio para el personal de la Agrupación de Tráfico de la Guardia Civil (7 Lotes)</cbc:Name>
+        <cbc:Description>Suministro de prendas de uniformidad de servicio para el personal de la Agrupación de Tráfico de la Guardia Civil (7 Lotes)</cbc:Description>
+        <cbc:TypeCode listVersionID="2.08" name="Suministros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">1</cbc:TypeCode>
+        <cbc:SubTypeCode listVersionID="2006" name="Adquisición" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/1.04/GoodsContractCode-1.04.gc">2</cbc:SubTypeCode>
+        <cbc:MixContractIndicator>false</cbc:MixContractIndicator>
+        <cac:BudgetAmount>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">2094500</cbc:EstimatedOverallContractAmount>
+            <cbc:TotalAmount currencyID="EUR">2534345</cbc:TotalAmount>
+            <cbc:TaxExclusiveAmount currencyID="EUR">2094500</cbc:TaxExclusiveAmount>
+        </cac:BudgetAmount>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Prendas de vestir, calzado, artículos de viaje y accesorios." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18000000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Chaquetones cortavientos." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18213000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Pantalones." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18234000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Camisetas." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18331000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Polos." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18333000</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RequiredCommodityClassification>
+            <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Uniformes militares." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">35811300</cbc:ItemClassificationCode>
+        </cac:RequiredCommodityClassification>
+        <cac:RealizedLocation>
+            <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+            <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+            <cac:Address>
+                <cac:Country>
+                    <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                    <cbc:Name>España</cbc:Name>
+                </cac:Country>
+            </cac:Address>
+        </cac:RealizedLocation>
+        <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MON">7</cbc:DurationMeasure>
+        </cac:PlannedPeriod>
+        <cac:ContractExtension>
+            <cac:OptionValidityPeriod>
+                <cbc:Description>No se contempla la posibilidad de prorrogar el contrato</cbc:Description>
+            </cac:OptionValidityPeriod>
+        </cac:ContractExtension>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">1</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">1</cbc:ID>
+            <cbc:Name>Chaquetón de invierno</cbc:Name>
+            <cbc:Description>Chaquetón de invierno</cbc:Description>
+            <cbc:TypeCode listVersionID="2.08" name="Suministros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">1035000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">1252350</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">1035000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Chaquetones cortavientos." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18213000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">2</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">2</cbc:ID>
+            <cbc:Name>Pantalón técnico</cbc:Name>
+            <cbc:Description>Pantalón técnico                  </cbc:Description>
+            <cbc:TypeCode listVersionID="2.08" name="Suministros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">456500</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">552365</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">456500</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Pantalones." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18234000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">3</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">3</cbc:ID>
+            <cbc:Name>Camiseta sudadera</cbc:Name>
+            <cbc:Description>Camiseta sudadera    </cbc:Description>
+            <cbc:TypeCode listVersionID="2.08" name="Suministros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">106000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">128260</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">106000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Camisetas." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18331000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">4</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">4</cbc:ID>
+            <cbc:Name>Polo manga corta</cbc:Name>
+            <cbc:Description>Polo manga corta    </cbc:Description>
+            <cbc:TypeCode listVersionID="2.08" name="Suministros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">240000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">290400</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">240000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Polos." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18333000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">5</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">5</cbc:ID>
+            <cbc:Name>Polo manga larga</cbc:Name>
+            <cbc:Description>Polo manga larga     </cbc:Description>
+            <cbc:TypeCode listVersionID="2.08" name="Suministros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">120000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">145200</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">120000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Polos." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18333000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">6</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">6</cbc:ID>
+            <cbc:Name>Uniforme de diario</cbc:Name>
+            <cbc:Description>Uniforme de diario     </cbc:Description>
+            <cbc:TypeCode listVersionID="2.08" name="Suministros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">39000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">47190</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">39000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Uniformes militares." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">35811300</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:ProcurementProjectLot>
+        <cbc:ID schemeName="ID_LOTE">7</cbc:ID>
+        <cac:TenderingTerms>
+            <cbc:RequiredCurriculaIndicator>false</cbc:RequiredCurriculaIndicator>
+        </cac:TenderingTerms>
+        <cac:ProcurementProject>
+            <cbc:ID schemeName="ID_LOTE">7</cbc:ID>
+            <cbc:Name>Chaqueta técnica</cbc:Name>
+            <cbc:Description>Chaqueta técnica     </cbc:Description>
+            <cbc:TypeCode listVersionID="2.08" name="Suministros" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">1</cbc:TypeCode>
+            <cac:BudgetAmount>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">98000</cbc:EstimatedOverallContractAmount>
+                <cbc:TotalAmount currencyID="EUR">118580</cbc:TotalAmount>
+                <cbc:TaxExclusiveAmount currencyID="EUR">98000</cbc:TaxExclusiveAmount>
+            </cac:BudgetAmount>
+            <cac:RequiredCommodityClassification>
+                <cbc:ItemClassificationCode listName="CPV" listVersionID="2.04" name="Prendas de vestir, calzado, artículos de viaje y accesorios." listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">18000000</cbc:ItemClassificationCode>
+            </cac:RequiredCommodityClassification>
+            <cac:RealizedLocation>
+                <cbc:CountrySubentity>Madrid</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Madrid" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES300</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:RealizedLocation>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+    <cac:TenderResult>
+        <cbc:ResultCode listVersionID="2.09" name="Adjudicado" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.09/TenderResultCode-2.09.gc">8</cbc:ResultCode>
+        <cbc:Description>Haber formulado la oferta más ventajosa para el Organismo y para el interés general</cbc:Description>
+        <cbc:AwardDate>2026-02-23+01:00</cbc:AwardDate>
+        <cbc:AwardTime>00:00:00.000</cbc:AwardTime>
+        <cbc:ReceivedTenderQuantity>1</cbc:ReceivedTenderQuantity>
+        <cbc:LowerTenderAmount currencyID="EUR">422470</cbc:LowerTenderAmount>
+        <cbc:HigherTenderAmount currencyID="EUR">422470</cbc:HigherTenderAmount>
+        <cbc:SMEsReceivedTenderQuantity>1</cbc:SMEsReceivedTenderQuantity>
+        <cbc:SMEAwardedIndicator>true</cbc:SMEAwardedIndicator>
+        <cbc:AwardedOwnerNationalityCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:AwardedOwnerNationalityCode>
+        <cbc:AbnormallyLowTendersIndicator>false</cbc:AbnormallyLowTendersIndicator>
+        <cac:WinningParty>
+            <cac:PartyIdentification>
+                <cbc:ID schemeName="NIF">****2899*</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:PartyName>
+                <cbc:Name>SAGRES, S.L.</cbc:Name>
+            </cac:PartyName>
+            <cac:PhysicalLocation>
+                <cbc:CountrySubentity>Pontevedra</cbc:CountrySubentity>
+                <cbc:CountrySubentityCode listVersionID="2.12" name="Pontevedra" listURI="http://contrataciondelestado.es/codice/cl/2.12/NUTS-2024.gc">ES114</cbc:CountrySubentityCode>
+                <cac:Address>
+                    <cbc:CityName>REDONDELA</cbc:CityName>
+                    <cbc:PostalZone>36800</cbc:PostalZone>
+                    <cac:AddressLine>
+                        <cbc:Line>PREGO DE MONTAOS</cbc:Line>
+                    </cac:AddressLine>
+                    <cac:Country>
+                        <cbc:IdentificationCode listVersionID="2.08" name="España" languageID="es" listURI="http://contrataciondelestado.es/codice/cl/2.08/CountryIdentificationCode-2.08.gc">ES</cbc:IdentificationCode>
+                        <cbc:Name>España</cbc:Name>
+                    </cac:Country>
+                </cac:Address>
+            </cac:PhysicalLocation>
+            <cac:AgentParty>
+                <cac:Contact>
+                    <cbc:Telephone>+34 986113135</cbc:Telephone>
+                    <cbc:ElectronicMail>a.fenocchi@partenon.net</cbc:ElectronicMail>
+                </cac:Contact>
+            </cac:AgentParty>
+        </cac:WinningParty>
+        <cac:AwardedTenderedProject>
+            <cbc:ProcurementProjectLotID>2</cbc:ProcurementProjectLotID>
+            <cac:LegalMonetaryTotal>
+                <cbc:TaxExclusiveAmount currencyID="EUR">456500</cbc:TaxExclusiveAmount>
+                <cbc:PayableAmount currencyID="EUR">552365</cbc:PayableAmount>
+            </cac:LegalMonetaryTotal>
+        </cac:AwardedTenderedProject>
+        <cac:ContractFormalizationPeriod>
+            <cbc:Description>Durante los cinco días siguientes a la fecha del requerimiento para la formalización del contrato</cbc:Description>
+        </cac:ContractFormalizationPeriod>
+    </cac:TenderResult>
+</ContractAwardNotice>

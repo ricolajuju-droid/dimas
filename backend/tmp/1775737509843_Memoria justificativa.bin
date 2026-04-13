@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, minimum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href.
+    dyn-cs:* URIs are resolved using the values within the 'wp_dyncs_simple' theme module. -->
+<link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!WjV8znmv3Qm9oKpKFqkXiQ/sp/mashup:ra:collection?soffset=0&amp;eoffset=20&amp;themeID=ZJ_53C4VJVP6C3100IP20H8I910G2&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1761122694000&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_theme_simple__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=st_fixed_navbar__0.0%3Ahead_css&amp;entry=wp_draft_page_ribbon__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=st_notice__0.0%3Ahead_css&amp;entry=wp_gridlayout__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=st_layoutGrid__0.0%3Ahead_css&amp;entry=st_search__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css" type="text/css"/><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!WjV8znmv3Qm9oKpKFqkXiQ/sp/mashup:ra:collection?soffset=0&amp;eoffset=7&amp;themeID=ZJ_53C4VJVP6C3100IP20H8I910G2&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1761122694000&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_toolbar_gridlayout_inlineedit__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true"/><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"en","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_4EOCCFH208S3D02LDUU6HH2082"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_53C4VJVP6SIG00IHFDLU150G26","Z6_4EOCCFH208S3D02LDUU6HH2082","Z6_000000000000000000000000A0","Z6_4EOCCFH208S3D02LDUU6HH2082","Z6_4EOCCFH208S3D02LDUU6HH20G5","Z6_4EOCCFH208S3D02LDUU6HH2082","Z6_4EOCCFH208S3D02LDUU6HH20G2","Z6_4EOCCFH208S3D02LDUU6HH2082","Z6_4EOCCFH208S3D02LDUU6HH2082","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_4EOCCFH208S3D02LDUU6HH20G2","Z6_53C4VJVP6SIG00IHFDLU150G26"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_53C4VJVP6SIG00IHFDLU150G26','Z6_4EOCCFH208S3D02LDUU6HH20G2','Z6_4EOCCFH208S3D02LDUU6HH2082'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!Oz0DwGGQk5RSzfLavfzTxw/mashup/ra:collection?themeID=ZJ_53C4VJVP6C3100IP20H8I910G2&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1761122694000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_theme_simple__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=st_notice__0.0%3Ahead_js&amp;entry=st_navigation__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!Oz0DwGGQk5RSzfLavfzTxw/mashup/ra:collection?themeID=ZJ_53C4VJVP6C3100IP20H8I910G2&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1741966690000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;deferred=true"/><link id="tgw.6rc3O56" rel="alternate" href="https://contrataciondelestado.es/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/"><script type="text/javascript">(function() {
+	var element = document.getElementById("tgw.6rc3O56");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><style id="layout-wstate-styles"></style>
+
+<script type="text/javascript">
+ function getTop(tag, recurse) {
+	var size=0;
+	if (recurse && tag.offsetParent != null) {
+		size+=getTop(tag.offsetParent, recurse);
+	}
+	if (tag != null) {
+		size+=tag.offsetTop;
+	}
+	return size;
+}
+
+</script>
+<meta http-equiv="Content-type" content="text/html;charset=ISO-8859-1">
+<meta name="description" content="Direcciï¿½n General del Patrimonio del Estado - Junta Consultiva de Contrataciï¿½n Administrativa">
+
+
+
+<title>Plataforma de Contrataci&oacute;n del Sector P&uacute;blico</title> 
+
+
+<link rel='bookmark' href='/wps/poc/!ut/p/digest!dJ6_Yj0hJFOSbsyyqAu25A/nm/oid:Z6_4EOCCFH208S3D02LDUU6HH2082' title='Detail' hreflang='en' ><script type='text/javascript' src='/wps/semanticTag/javascript/semanticTagService.js?language=en' ></script>
+<title>Detail</title>
+
+
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzRFT0NDRkgyMDhTM0QwMkxEVVU2SEgyMDgy/" />
+
+
+
+
+<link href='/PlaceThemeDynamic/themes/html/dynamicSpots/./styles/stylesJsp.css' rel="styleSheet" type="text/css" >
+<link href="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/css/stylesComun.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+<link href="/PlaceThemeDynamic/themes/html/dynamicSpots/images/contratacion.ico" keepNavigationalState="false" lateBinding="false" protected="false" rel="icon" type="image/x-icon"/>
+
+
+
+
+
+
+<script type="text/javascript">
+</script>
+  
+<script src='/PlaceThemeDynamic/themes/html/dynamicSpots/js/js.jsp'></script>
+
+
+
+
+<script type="text/javascript">
+	
+	try{
+	var javascriptEventController = new ElementJavascriptEventController();
+	
+	var flyOut = [
+		
+		{
+		url: "",
+		icon: "/PlaceThemeDynamic/themes/html/dynamicSpots/images/toolBar/content.gif",
+		activeIcon: "/PlaceThemeDynamic/themes/html/dynamicSpots/images/toolBar/Active_content.gif",
+		hoverIcon: "/PlaceThemeDynamic/themes/html/dynamicSpots/images/toolBar/EnabledHover_content.gif",
+		active:false, 
+		altText:"Open Portlet Palette", 
+		activeAltText:"Close Palettes",
+		arrayPosition : "0"
+		}
+		,
+		{
+		url:"",
+		icon: "/PlaceThemeDynamic/themes/html/dynamicSpots/images/toolBar/people.gif",
+		activeIcon: "/PlaceThemeDynamic/themes/html/dynamicSpots/images/toolBar/Active_people.gif",
+		hoverIcon: "/PlaceThemeDynamic/themes/html/dynamicSpots/images/toolBar/EnabledHover_people.gif",
+		active:false,
+		altText:"Open People Palette",
+		activeAltText:"Close Palettes",
+		arrayPosition : "1"
+		}
+		
+			];
+	
+	
+	
+	}catch (e) {
+		console.error(e);
+	}
+	
+</script>
+
+<script type="text/javascript">
+
+
+function showMainMenu_Z6_4EOCCFH208S3D02LDUU6HH2082()
+{
+	asynchContextMenuOnMouseClickHandler( "menu_Z6_4EOCCFH208S3D02LDUU6HH2082_main", true, '/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L0lDU1EvUU5RSy80QTFFL21haW5NZW51/', "main-menu-border", "main-menu", "main-menu-item", "main-menu-item-selected", null,'/PlaceThemeDynamic/themes/html/dynamicSpots/images/banner/launch_loading.gif' );
+}
+
+var pageMenuURL = '/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L0lDU1EvUU5RSy80QTFFL3BhZ2VDb250ZXh0TWVudQ!!/';
+
+function showPageMenu( launcher )
+{
+		
+	asynchContextMenuOnMouseClickHandler( 'menu_Z6_4EOCCFH208S3D02LDUU6HH2082',true,pageMenuURL, "main-menu-border", "main-menu", "main-menu-item", "main-menu-item-selected", 'No actions currently available.','/PlaceThemeDynamic/themes/html/dynamicSpots/images/context_loading.gif' );
+}
+
+function accessibleShowPageMenu( evt )
+{
+	keyCode = -1;
+	if ( evt && evt.which )
+	{	
+		keyCode = evt.which;
+	}
+	else if ( window.event )
+	{
+		keyCode = window.event.keyCode
+	}	
+
+	if ( keyCode == 13 )
+	{
+    	
+		
+		asynchContextMenuOnMouseClickHandler( 'menu_Z6_4EOCCFH208S3D02LDUU6HH2082',true,pageMenuURL, "main-menu-border", "main-menu", "main-menu-item", "main-menu-item-selected", 'No actions currently available.','/PlaceThemeDynamic/themes/html/dynamicSpots/images/context_loading.gif' );
+	}
+	else
+	{
+	 	return true;
+	}
+}
+
+function showPageAffordance()
+{
+	if ( asynchContextMenu_menuCurrentlyLoading != null )
+		return;	
+
+	
+		if (document.getElementById( 'menu_Z6_4EOCCFH208S3D02LDUU6HH2082' ) != null)
+	    {
+			document.getElementById( 'menu_Z6_4EOCCFH208S3D02LDUU6HH2082' ).style.cursor = 'pointer';
+			document.getElementById( 'menu_Z6_4EOCCFH208S3D02LDUU6HH2082_img' ).src="/PlaceThemeDynamic/themes/html/dynamicSpots/images/topNav/menu_selected.gif";
+		}
+	
+}
+
+function hidePageAffordance()
+{
+	if ( asynchContextMenu_menuCurrentlyLoading != null )
+		return;
+	
+	    if (document.getElementById( 'menu_Z6_4EOCCFH208S3D02LDUU6HH2082' ) != null)
+	    {
+			document.getElementById( 'menu_Z6_4EOCCFH208S3D02LDUU6HH2082' ).style.cursor = 'default';
+			document.getElementById( 'menu_Z6_4EOCCFH208S3D02LDUU6HH2082_img' ).src="/PlaceThemeDynamic/themes/html/dynamicSpots/images/topNav/menu_selected_disabled.gif";
+		}
+	
+}
+
+
+</script>
+  
+
+<script src='/PlaceThemeDynamic/themes/html/dynamicSpots/js/applyModKeyBoardEvents.js'></script>
+  
+<script src='/PlaceThemeDynamic/themes/html/dynamicSpots/js/myFaces.js'></script>
+
+
+	<link rel="stylesheet" href="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/css/styles.css">
+	
+	
+	<script src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/js/functions.js"></script>
+</head>
+<body miversion="1.0"
+	onload="if (javascriptEventController) { javascriptEventController.enableAll(); }">
+	
+	<div id="anchoMinimoPLACE" class="anchoMinimoPLACE">
+		<div class="header-home">
+			
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- OPERACION FALTAN -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+			
+			
+							
+							
+						
+						
+						
+
+	
+	
+
+
+	
+	
+	
+	
+	<!-- -- enlace_urlIconoChevrondown:/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/ico-chevron-down.svg<br> -->
+	
+	
+	
+	
+	
+	
+	
+		
+	<section class="container-header">
+      <div class="brand-public">
+        <div class="brand-public-left">
+          <a href="https://www.hacienda.gob.es" title="Home" target="_self">
+          <div class="contenedor-logo-entorno">
+            <img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/Brand-Ministerio-hacienda.png" alt="Ministerio de Hacienda y Función Pública">
+            
+            
+             
+             
+            
+            	  <img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/imgEntorno_pro.gif" class="logo-entorno" alt="Ministerio de Hacienda y Función Pública">
+            
+             
+            </div>
+          </a>
+          <a href="/wps/portal/plataforma" title="Plataforma de Contratación del Sector Público" target="_self">
+            <img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/brand-plataforma-contratacion.svg" alt="Plataforma de Contratación del Sector Público">
+          </a>
+        </div>
+		
+			<div class="brand-public-right" id="openLanguaje">
+			
+			  <strong id="strongIdiomas">EN | </strong> 
+			  <img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/ico-chevron-down.svg" alt="Seleccionar lenguaje" class="rotate-180">
+			  <ul class="select-languaje fade" >
+					
+					
+								<li>
+									<a class="topbarLink" hreflang="es" xml:lang="es" lang="es" title="es" href="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vz/">
+										Bienvenidos
+									</a> 
+								</li>
+								<li>
+									<a class="topbarLink" hreflang="eu" xml:lang="eu" lang="eu" title="eu" href="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2V1/">
+										Ongi Etorri
+									</a>
+								</li>
+								<li>
+									<a class="topbarLink" hreflang="ca" xml:lang="ca" lang="ca" title="ca" href="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Nh/">
+										Benvinguts
+									</a>
+								</li>
+								<li>
+									<a class="topbarLink" hreflang="gl" xml:lang="gl" lang="gl" title="gl" href="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2ds/">
+										Benvidos
+									</a>
+								</li>
+								<li>
+									<a class="topbarLink" hreflang="en" xml:lang="en" lang="en" title="en" href="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/">
+										Welcome
+									</a>
+								</li>
+								<li>
+									<a class="topbarLink" hreflang="fr" xml:lang="fr" lang="fr" title="fr" href="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Zy/">
+										Bienvenue
+									</a>
+								</li>
+					
+					
+
+			  </ul>
+			</div>
+		
+		
+      </div>
+    </section>
+	
+	
+	
+	
+
+
+<!-- COMIENZO PATRIMONIO --> 
+<portal-internal:adminNavHelper/> 
+   
+<!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- inicc: es.dgpe.place.inicio- --><!-- estamos-INICIO  es.dgpe.place.inicio --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_2 true--><!-- inicc: es.dgpe.place.licitaciones.visitante- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- inicc: es.dgpe.place.PerfilContrante- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- inicc: es.dgpe.place.empresas- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- inicc: es.dgpe.place.organismosPublicos- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- inicc: es.dgpe.le.csv.CSV- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- inicc: es.dgpe.place.estadisticas- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- inicc: es.dgpe.place.datosabiertos- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!--pinta_enlace_8 true--><!-- inicc: es.dgpe.place.Buscador- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!--pinta_enlace_9 true--><!-- inicc: es.dgpe.place.informacion- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- inicc: es.dgpe.place.contacto- --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_6 true--><!-- bbj: closeMenu_AndPintaMenuMobile_AndBotonesEspeciales_AndInitSubmenu: true --><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!--pinta_enlace_1 FALSE--><!--pinta_enlace_3 true--><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!-- es active en submenu --><!-- subMenuActivoActual es es.dgpe.place.licitaciones.detalle.visitante --><!--pinta_enlace_1 FALSE--><!-- //// calcular: visibilidad y datos de submenuN2 --><!-- //// calcular: una vez que sabemos que hay que pintar un enlace (pinta_enlace=true) calculamos donde y lo guardamos en pinta_enlace --><!-- elemento no contemplado i:3 c:3--><!-- bbj: iniciamos los menus y submenus -->
+				<menu class="menu">
+				  <div class="menu-container">
+
+				  	<!-- bbj: ponemos el menu-left -->
+				  	<ul class="menu-left">
+			          		
+			          		<li>
+								<a href="/wps/portal/plataforma/inicio/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0JTODhBQjFBMDAzVTgwQTZRUUM5RDAyMDkz/"  title='Home' target="_self">
+															
+										<img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/ico-home-header.svg" alt="Home">
+															
+									
+								</a>
+							</li>
+			          		<li>
+								<a href="/wps/portal/plataforma/buscadores/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzRFT0NDRkgyMDhTM0QwMkxEVVU2SEgyMEcy/"  title='Search' target="_self">
+															
+									Search
+								</a>
+							</li> 
+									
+									<li>
+								<a href="/wps/portal/plataforma/perfil_contratante/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0FWRVFBSTkzMEdSUEUwMkJSNzY0Rk8zMDAw/"  title='Contractor Profile' target="_self">
+															
+									Contractor Profile
+								</a>
+							</li> 
+									
+									<li>
+								<a href="/wps/portal/plataforma/empresas/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0JTODhBQjFBMDg3QkQwQTZFMzY1UTEyMEc2/"  title='Companies' target="_self">
+															
+									Companies
+								</a>
+							</li> 
+									
+									<li>
+								<a href="/wps/portal/plataforma/organismos_publicos/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0JTODhBQjFBMDg3QkQwQTZFMzY1UTEyMDA1/"  title='Public Organizations' target="_self">
+															
+									Public Organizations
+								</a>
+							</li> 
+									
+									<li>
+								<a href="/wps/portal/plataforma/verificar_CSV/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzUzQzRWSlZQNkNQOUQwQVFSTkFBMDgwMFMx/"  title='Verify CSV' target="_self">
+															
+									Verify CSV
+								</a>
+							</li> 
+									
+									<li>
+								<a href="/wps/portal/plataforma/estadisticas/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzhONThBQjFBME9NSjYwNlVVMkNITUw3NDY0/"  title='Statistics' target="_self">
+															
+									Statistics
+								</a>
+							</li> 
+									
+									<li>
+								<a href="/wps/portal/plataforma/datos_abiertos/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzhONThBQjFBME83OUQwUTNGOTQ2TlBQVDg3/"  title='Open Data' target="_self">
+															
+									Open Data
+								</a>
+							</li> 
+									
+									<li>
+								<a href="/wps/portal/plataforma/contacto/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0JTODhBQjFBMDBRVDMwQU1BTUFBTFQyRzk2/"  title='Contact' target="_self">
+															
+									Contact
+								</a>
+							</li> 
+				     	
+				    </ul><!-- bbj: cierra menu-left --c:3 i:-- closeMenu_AndPintaMenuMobile_AndBotonesEspeciales_AndInitSubmenu: true --><!-- bbj: pone menu mobile -->
+			      	<button class="open-menu-mobile" id="openMenu">
+				      <img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/ico-menu.svg" alt="Abrir men&uacute;" />
+				      <span>Menú</span>
+				    </button>
+					<div class="container open-menu-mobile-items fade"> <!-- style="display: none;" -->
+			          <div class="open-menu-mobile-close" id="closeMenu">
+			            <span>Cerrar</span>
+			            <i class="icon-group m">
+			            	<img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/ico-menu.svg" alt="Cerrar menú" />
+			            </i>
+			          </div>
+			          <ul>
+			          		
+			          		<li>
+											<a href="/wps/portal/plataforma/" Inicio target="_self">
+												Inicio
+											</a>
+										</li> 
+										
+										<li>
+											<a  href="/wps/portal/plataforma/buscadores/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzRFT0NDRkgyMDhTM0QwMkxEVVU2SEgyMEcy/" title='Search' target="_self">
+												Search
+											</a>
+										</li> 
+										
+										<li>
+											<a  href="/wps/portal/plataforma/perfil_contratante/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0FWRVFBSTkzMEdSUEUwMkJSNzY0Rk8zMDAw/" title='Contractor Profile' target="_self">
+												Contractor Profile
+											</a>
+										</li> 
+										
+										<li>
+											<a  href="/wps/portal/plataforma/empresas/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0JTODhBQjFBMDg3QkQwQTZFMzY1UTEyMEc2/" title='Companies' target="_self">
+												Companies
+											</a>
+										</li> 
+										
+										<li>
+											<a  href="/wps/portal/plataforma/organismos_publicos/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0JTODhBQjFBMDg3QkQwQTZFMzY1UTEyMDA1/" title='Public Organizations' target="_self">
+												Public Organizations
+											</a>
+										</li> 
+										
+										<li>
+											<a  href="/wps/portal/plataforma/verificar_CSV/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzUzQzRWSlZQNkNQOUQwQVFSTkFBMDgwMFMx/" title='Verify CSV' target="_self">
+												Verify CSV
+											</a>
+										</li> 
+										
+										<li>
+											<a  href="/wps/portal/plataforma/estadisticas/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzhONThBQjFBME9NSjYwNlVVMkNITUw3NDY0/" title='Statistics' target="_self">
+												Statistics
+											</a>
+										</li> 
+										
+										<li>
+											<a  href="/wps/portal/plataforma/datos_abiertos/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzhONThBQjFBME83OUQwUTNGOTQ2TlBQVDg3/" title='Open Data' target="_self">
+												Open Data
+											</a>
+										</li> 
+										
+										<li>
+											<a  href="/wps/portal/plataforma/contacto/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0JTODhBQjFBMDBRVDMwQU1BTUFBTFQyRzk2/" title='Contact' target="_self">
+												Contact
+											</a>
+										</li> 
+			          </ul><!-- bbj: cierra menu mobile -->
+
+			        </div><!-- bbj: cierra div container open-menu-mobile-items --><!-- bbj: ponemos menu-right. botones especiales de buscador e info -->
+					<ul class="menu-right">
+		          		
+		          		<li>
+										<a href="/wps/portal/plataforma/buscador/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0FWRVFBSTkzMDA5Q0IwMlJBNFJHVTIyMDk3/" title='Buscador' target="_self" class="icon-group m">
+																	
+												<img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/ico-search.svg" alt="Buscador">
+																	
+											
+										</a>
+									</li> 
+									
+									<li>
+										<a href="/wps/portal/plataforma/informacion/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0JTODhBQjFBMEdKSjUwQU0wNExHUDEzMEUy/" title='Information' target="_self" class="icon-group m">
+																	
+												<img src="/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/ico-info.svg" alt="Information">
+																	
+											
+										</a>
+									</li> 
+					
+						
+				     </ul><!-- bbj: cierra menu-rigth -->
+				  </div> <!-- bbj: cierra  menu-container -->
+				</menu><!-- bbj: cierra menu: menu -->
+				<section class="submenu">
+					<div class="menu-container">
+						<ul>
+							
+							<li>
+								<a href="/wps/portal/plataforma/buscadores/busqueda"  title='Search' target="_self">
+															
+									Search
+								</a>
+							</li> 
+									
+									<li>
+								<a  class='activeMenu ' title='Detail' target="_self">
+															
+									Detail
+								</a>
+							</li> 
+						</ul><!-- cierra ul: submenu-->
+					</div>
+				</section><!-- bbj: cierra section: submenu--><!-- estructura submenuN2 -->
+				<section class="submenu-segundo-nivel">
+					<div class="menu-container">
+						<ul>
+							
+							 
+						</ul><!-- cierra ul: submenuN2-->
+					</div>
+				</section><!-- bbj: cierra section: submenuN2--></div>
+		<div class="tablaPrincipalDefault"> 
+			<div class="cellTablaPrincipalDefault">
+				 
+<portal-internal:adminNavHelper/> 
+   
+</div>
+			<div class="cellTablaPrincipalDefault">
+				<a name="wpsMainContent"></a>
+				<div id="mainContent">
+					
+
+
+
+
+
+
+
+
+
+<!-- BJZ UnlayeredContainer-H INI - Cambio table a divs -->
+<div class="layoutRow ibmDndRow component-container " cellpadding="0" cellspacing="0" role="presentation">
+    
+        
+
+
+
+
+
+
+
+
+
+<!-- BJZ UnlayeredContainer-V INI - Cambio table a divs -->
+<div class="layoutColumn ibmDndColumn component-container id-Z7_4EOCCFH208S3D02LDUU6HH2081 layoutNode" cellpadding="0" cellspacing="0" role="presentation">
+	
+		<div class='component-control id-Z7_GG0I1BG041KND06P7EJEQT0000' ><span id="Z7_GG0I1BG041KND06P7EJEQT0000"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+	<!-- marks the node the analytics tags for this portlet will be placed in -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+	<div class="wpthemeASARelPosition">
+		<div class="analytics.overlay" ></div>
+	</div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="en" dir="ltr">SeguimientoExpedientePortlet</span></span>
+	</span>
+    <div class="wpthemeOverflowAuto"> <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+   
+  
+  
+ 
+ 
+
+
+
+
+ 
+	
+	
+	 <script src='/wps/PA_PortletsPlace/jsp/JS/PLACE_JS.jsp?ns=ns_Z7_GG0I1BG041KND06P7EJEQT0000_'  type="text/javascript"></script>
+	
+	<form id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente" name="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente" method="post" action="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dBISEvZ0FBIS9nQSEh/p0/IZ7_GG0I1BG041KND06P7EJEQT0000=CZ6_4EOCCFH208S3D02LDUU6HH2082=LA0=Ecom.ibm.faces.portlet.VIEWID!QCPjspQCPseguimientoQCPSeguimientoExpedientePortletView.jsp==/#Z7_GG0I1BG041KND06P7EJEQT0000" class="form" enctype="application/x-www-form-urlencoded"><input type="hidden" name="javax.faces.encodedURL" value="/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L2dBISEvZ0FBIS9nQSEh/p0/IZ7_GG0I1BG041KND06P7EJEQT0000=CZ6_4EOCCFH208S3D02LDUU6HH2082=NEcom.ibm.faces.portlet.PARTIAL!QCPjspQCPseguimientoQCPSeguimientoExpedientePortletView.jsp==/" /><div id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:dialogoEliminarSeguimientoExpediente" class="panelDialog" style="position:absolute; display:none; width:500px; height:auto"><div id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:dialogoEliminarSeguimientoExpediente_tb" title="Confirmaci&#243;n de Eliminaci&#243;n">Confirmaci&#243;n de Eliminaci&#243;n</div><div id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:dialogoEliminarSeguimientoExpediente_ca"><span id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:panelGroupEliminarSeguimientoExpediente"><table id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:groupBoxMessageEliminarSeguimientoExpediente" align="center"><tr><td>
+			<table>
+				<tr align="center">
+					<td align="center">
+					<table>
+						<tr align="center">
+							<td align="center">
+								</td><td><span id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:labelTituloEliminarSeguimiento1" class="tipo3especial con_salto_linea">The bid with the file number</span></td><td>										
+							</td>	
+						</tr>
+						<tr align="center">
+							<td align="center">			  	  
+					 			</td><td><span id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:labelTituloEliminarSeguimiento" class="tipo3especial con_salto_linea marginLeft0punto4">&#191;Desea continuar?</span></td><td>	
+							</td>	
+						</tr>
+					</table>
+					</td>
+				</tr>
+			</table>						
+			</td></tr></table></span><table id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:groupBoxBotoneraEliminarSeguimientoExpediente" align="center"><tr><td><input type="submit" value="Accept" id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:botonAceptarNoSeguimiento" name="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:botonAceptarNoSeguimiento" class="commandExButton textAlignCenter paddingLeft1" alt="Aceptar para confirmar la eliminaci&#243;n del seguimiento de las licitaciones seleccionadas" title="Aceptar para confirmar la eliminaci&#243;n del seguimiento de las licitaciones seleccionadas" /></td><td>
+			 
+			<!-- Cancelar No Seguir--> 
+			</td><td><input type="submit" value="Cancel" id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:botonCancelarNoSeguimiento" name="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:botonCancelarNoSeguimiento" class="commandExButton textAlignCenter paddingLeft1 marginLeft1em" alt="Cancelar para volver al detalle" title="Cancelar para volver al detalle" /></td></tr></table></div></div>
+
+<script type="text/JavaScript"  src="/wps/PA_PortletsPlace/.ibmjsfres/hxclient_core_v3_1_13.js"></script>
+
+<script type="text/JavaScript"   src="/wps/PA_PortletsPlace/.ibmjsfres/hxclient_S_v3_1_12.js?viewLocale=en"></script>
+<script type="text/JavaScript"  >
+
+if (hX_6) hX_6.AJAX_prototypeloader();if (hX_6) hX_6.setResourceServer("/wps/PA_PortletsPlace/.ibmjsfres");
+
+if (hX_6 && hX_6.setPortalEncoding) hX_6.setPortalEncoding(); // turns on Portal code paths for HxClient.
+if(hX_6 && hX_6.setLocale) hX_6.setLocale("en");
+
+</script><input type="hidden" name="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente_SUBMIT" value="1" /><input type="hidden" name="javax.faces.ViewState" id="viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:javax.faces.ViewState:1" value="a9xX0b4b+ffm68azhLIuLzIIays8WUplFsLaixIfJdYOB38vz3PsQSdqHHTBZmIs2TkfRQ==" autocomplete="off" /></form>
+<script type="text/javascript" src="/wps/PA_PortletsPlace/.ibmjsfres/hxclient_be_v3_1_13.js"></script>
+<script type="text/javascript" src="/wps/PA_PortletsPlace/.ibmjsfres/hxclient_dlg_v3_1_13.js"></script>
+<script type="text/javascript">
+if (hX_6) hX_6.AJAX_prototypeloader();
+hX_6.addComponent("viewns_Z7_GG0I1BG041KND06P7EJEQT0000_:formSeguimientoExpediente:dialogoEliminarSeguimientoExpediente", new hX_6.JSFDialog("movable:false", "type:modeless", "onshow:return bloqueoBotones();"));
+hX_6.onPageLoad();</script>
+	
+	<script type="text/javascript"> 
+	 
+ 
+ 		function cambiarOpacidad(){
+			/*
+			Estas dos propiedades no son validables por W3C, pero son necesarias para mostrar una capa con transparencia
+			filter: alpha(opacity=50); 
+			opacity: .5;
+			
+			*/
+			
+			       
+			var popupVisible=false;
+			var capa=document.getElementById('capa_oculta');	
+			if (capa!=null){			
+				capa.style.filter = "alpha(opacity=50)";
+				capa.style.opacity = ".5";
+			}
+		
+		}
+		
+		if (document.addEventListener) { 
+			document.addEventListener("DOMContentLoaded", cambiarOpacidad, false);
+   		} else { // IE 
+			 attachEvent("onload",cambiarOpacidad);
+		}
+
+ 
+	</script>
+	<noscript><p>Su navegador no permite scripts o est&#225;n desactivados</p></noscript>
+	
+</div>
+</section> </div>
+	
+		<div class='component-control id-Z7_AVEQAI930OBRD02JPMTPG21006' ><span id="Z7_AVEQAI930OBRD02JPMTPG21006"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+	<!-- marks the node the analytics tags for this portlet will be placed in -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+	<div class="wpthemeASARelPosition">
+		<div class="analytics.overlay" ></div>
+	</div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="en" dir="ltr">Details of tender</span></span>
+	</span>
+    <div class="wpthemeOverflowAuto"> <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+ 
+  
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+ 
+<link rel="stylesheet" type="text/css"
+	href='/wps/PA_PortletsPlace/theme/stylesheet.css'
+	title="Style">
+	
+	
+	
+	
+
+
+
+
+
+	
+	<div class="contenidoDetalle">
+	<table class="ancho100">
+		<tbody>
+			<tr> 
+				<td>
+					
+						<span id="viewns_Z7_AVEQAI930OBRD02JPMTPG21006_:text1" class="outputText">Debe rellenar los criterios de b&#250;squeda para poder acceder al detalle</span>
+
+												
+				</td>				
+			</tr>
+		</tbody>
+	</table>
+	</div>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://licitacionesportletapp.LicitacionesRecientes/}OutputProperty' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://licitacionesportletapp.LicitacionesRecientes/}OutputProperty' />
+  <span class='c2a:typename' style='display:none'>http://licitacionesportletapp.LicitacionesRecientes/#OutputProperty</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2GG2</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://licitacionesportletapp.LicitacionesRecientes/}OutputProperty'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://licitacionesportletapp.LicitacionesRecientes/}OutputProperty</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://licitacionesportletapp.LicitacionesRecientes/}OutputProperty' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://licitacionesportletapp.LicitacionesRecientes/}OutputProperty' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://le.gestionsesionycalificacionportletapp.BusquedaSesiones/}OutputPropertyIdLicitacionFromSession' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://le.gestionsesionycalificacionportletapp.BusquedaSesiones/}OutputPropertyIdLicitacionFromSession' />
+  <span class='c2a:typename' style='display:none'>http://le.gestionsesionycalificacionportletapp.BusquedaSesiones/#OutputPropertyIdLicitacionFromSession</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2GG1</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://le.gestionsesionycalificacionportletapp.BusquedaSesiones/}OutputPropertyIdLicitacionFromSession'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://le.gestionsesionycalificacionportletapp.BusquedaSesiones/}OutputPropertyIdLicitacionFromSession</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://le.gestionsesionycalificacionportletapp.BusquedaSesiones/}OutputPropertyIdLicitacionFromSession' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://le.gestionsesionycalificacionportletapp.BusquedaSesiones/}OutputPropertyIdLicitacionFromSession' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://portletsplace.Busqueda.de.licitaciones/}OutputProperty' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://portletsplace.Busqueda.de.licitaciones/}OutputProperty' />
+  <span class='c2a:typename' style='display:none'>http://portletsplace.Busqueda.de.licitaciones/#OutputProperty</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2GG3</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Busqueda.de.licitaciones/}OutputProperty'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Busqueda.de.licitaciones/}OutputProperty</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://portletsplace.Busqueda.de.licitaciones/}OutputProperty' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Busqueda.de.licitaciones/}OutputProperty' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://administracionportletapp.Lista.de.Perfiles/}OutputProperty' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://administracionportletapp.Lista.de.Perfiles/}OutputProperty' />
+  <span class='c2a:typename' style='display:none'>http://administracionportletapp.Lista.de.Perfiles/#OutputProperty</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2G82</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.Lista.de.Perfiles/}OutputProperty'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.Lista.de.Perfiles/}OutputProperty</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://administracionportletapp.Lista.de.Perfiles/}OutputProperty' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.Lista.de.Perfiles/}OutputProperty' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdLICyIdOA' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdLICyIdOA' />
+  <span class='c2a:typename' style='display:none'>http://portletsplace.Detalle.de.licitacion/#OutputPropertyIdLICyIdOA</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2G80</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdLICyIdOA'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdLICyIdOA</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdLICyIdOA' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdLICyIdOA' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOAToDetai' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOAToDetai' />
+  <span class='c2a:typename' style='display:none'>http://portletsplace.Detalle.de.licitacion/#OutputPropertyIdOAToDetai</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2G81</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOAToDetai'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOAToDetai</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOAToDetai' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOAToDetai' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://administracionportletapp.ConsultaPeticionesB2BPortlet/}OutputProperty' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://administracionportletapp.ConsultaPeticionesB2BPortlet/}OutputProperty' />
+  <span class='c2a:typename' style='display:none'>http://administracionportletapp.ConsultaPeticionesB2BPortlet/#OutputProperty</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2G83</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.ConsultaPeticionesB2BPortlet/}OutputProperty'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.ConsultaPeticionesB2BPortlet/}OutputProperty</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://administracionportletapp.ConsultaPeticionesB2BPortlet/}OutputProperty' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.ConsultaPeticionesB2BPortlet/}OutputProperty' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://le.administracionoausuariosportletapp.GestionOA/}OutputIdLicVolver' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://le.administracionoausuariosportletapp.GestionOA/}OutputIdLicVolver' />
+  <span class='c2a:typename' style='display:none'>http://le.administracionoausuariosportletapp.GestionOA/#OutputIdLicVolver</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2GO2</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://le.administracionoausuariosportletapp.GestionOA/}OutputIdLicVolver'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://le.administracionoausuariosportletapp.GestionOA/}OutputIdLicVolver</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://le.administracionoausuariosportletapp.GestionOA/}OutputIdLicVolver' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://le.administracionoausuariosportletapp.GestionOA/}OutputIdLicVolver' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOCyIdLIC' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOCyIdLIC' />
+  <span class='c2a:typename' style='display:none'>http://portletsplace.Detalle.de.licitacion/#OutputPropertyIdOCyIdLIC</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2GO1</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOCyIdLIC'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOCyIdLIC</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOCyIdLIC' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://portletsplace.Detalle.de.licitacion/}OutputPropertyIdOCyIdLIC' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://misofertasportletapp.MisOfertasPortletApp/}OutputProperty' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://misofertasportletapp.MisOfertasPortletApp/}OutputProperty' />
+  <span class='c2a:typename' style='display:none'>http://misofertasportletapp.MisOfertasPortletApp/#OutputProperty</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2GO0</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://misofertasportletapp.MisOfertasPortletApp/}OutputProperty'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://misofertasportletapp.MisOfertasPortletApp/}OutputProperty</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://misofertasportletapp.MisOfertasPortletApp/}OutputProperty' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://misofertasportletapp.MisOfertasPortletApp/}OutputProperty' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://licitacionesportletapp.MisLicitacionesPortlet/}OutputProperty' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://licitacionesportletapp.MisLicitacionesPortlet/}OutputProperty' />
+  <span class='c2a:typename' style='display:none'>http://licitacionesportletapp.MisLicitacionesPortlet/#OutputProperty</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2GO3</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://licitacionesportletapp.MisLicitacionesPortlet/}OutputProperty'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://licitacionesportletapp.MisLicitacionesPortlet/}OutputProperty</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://licitacionesportletapp.MisLicitacionesPortlet/}OutputProperty' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://licitacionesportletapp.MisLicitacionesPortlet/}OutputProperty' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://administracionportletapp.AdminAOCReasigProcPortletApp/}OutputProperty' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://administracionportletapp.AdminAOCReasigProcPortletApp/}OutputProperty' />
+  <span class='c2a:typename' style='display:none'>http://administracionportletapp.AdminAOCReasigProcPortletApp/#OutputProperty</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2G40</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.AdminAOCReasigProcPortletApp/}OutputProperty'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.AdminAOCReasigProcPortletApp/}OutputProperty</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://administracionportletapp.AdminAOCReasigProcPortletApp/}OutputProperty' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.AdminAOCReasigProcPortletApp/}OutputProperty' /></form>
+
+<form class='c2a:target' method='POST' action='/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/pZDLcoIwFIafhi05hkvtEgmXOFJpKSDZMFFpJx0ClEufv4DdinY8uz_zf_lOghg6IFbxH_HJe1FXvBxzxsxcd_a27foY1pFGAO9IHJv-FDFK54Kh2XqyTUIzoh4A9V2yi1cGeNhE7B4erowF9_HXCp7xII8f49cXfuF5KWKLimmDubD0xbck2bjkU24lzqtFnzXYb95GxTYM3kMPrwB0FE13nGqpiqNUP_ip6NSmbvuy6NWEOiklKFPgq2sUOA7d91CcuQJu3cqh5K2oN39n6ti45TL_4ToXPS_LQoGAi4pcwuxoZDzOAUQoZf4SWL_M58Qk/dz/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRFS2lqaFVNV0hFIS8wLzg3MTI0ODQvSW52b2tlQ29tbXVuaWNhdGlvblRhcmdldA!!/'>
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.pageid' value='Z6_4EOCCFH208S3D02LDUU6HH2082' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.portletwindowid' value='Z7_AVEQAI930OBRD02JPMTPG21006' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetname' value='process.{http://administracionportletapp.CerrarLicitaciones/}OutputProperty' />
+  <input type='hidden' name='com.ibm.wps.propertybroker.standard.c2a.commtargetqname' value='{http://administracionportletapp.CerrarLicitaciones/}OutputProperty' />
+  <span class='c2a:typename' style='display:none'>http://administracionportletapp.CerrarLicitaciones/#OutputProperty</span>
+  <span class='c2a:action-label' style='display:none'>Z11_3GD4HOS041S4306LL0BTOG2G42</span>
+  <label style='display:none' for='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.CerrarLicitaciones/}OutputProperty'>ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.CerrarLicitaciones/}OutputProperty</label>  <input type='text' class='c2a:action-param' style='display:none' name='process.{http://administracionportletapp.CerrarLicitaciones/}OutputProperty' id='ns_Z7_AVEQAI930OBRD02JPMTPG21006_process.{http://administracionportletapp.CerrarLicitaciones/}OutputProperty' /></form>
+</div>
+</section> </div>
+	
+</div>
+<!-- BJZ UnlayeredContainer-V FINI --> 
+
+	
+</div>
+<!-- BJZ UnlayeredContainer-H FIN --></div>
+			</div>
+		</div>
+		<!-- page footer Inicio -->
+		
+	<footer class="footer">
+		<section class="container">
+		  <div class="container-fluid">
+			<div class="footer-start">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-20">
+					  <h3 class="footer-start-title">
+						Legal advise
+					  </h3>
+						<ul>
+							<li>
+								<a href="/wps/portal/info/aviso_legal" target="_self" 
+										title="Information about Legal advise">
+									Legal advise
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-20">
+					  <h3 class="footer-start-title">
+						Data Protection<!--h:outputText value="#{footer.protDatos}" title="#{footer.protDatos}"/-->
+						</h3>
+						<ul>
+							<li>
+								<a href="/wps/portal/info/ProteccionDeDatos" target="_self" 
+										title="General information on data protection">
+									General information on data protection<!--h:outputText value="#{footer.infGenProtDatos}" title="#{footer.infGenProtDatos}"/-->
+								</a>
+							</li>
+							<li>
+								<a href="https://www.hacienda.gob.es/es-ES/El%20Ministerio/Paginas/DPD/REGISTRO_DE_ACTIVIDADES_DE_TRATAMIENTO_DE_HACIENDA.aspx" target="_self" 
+										title="Registro de Actividades de Tratamiento">
+									Registro de Actividades de Tratamiento
+									
+								</a>
+							</li>
+							<li>
+								<a href="https://www.aepd.es/" target="_self" 
+										title="Information about Agencia Española de Protección de Datos">
+									Spanish Data Protection Agency<!--h:outputText value="#{footer.agEspProtDatos}" title="#{footer.agEspProtDatos}"/-->
+								</a>
+							</li>
+							<li>
+								<a href="https://www.hacienda.gob.es/es-ES/El%20Ministerio/Paginas/DPD/Normativa_PD.aspx" target="_self" 
+										title="Information on Data Protection regulations">
+									Data Protection information.<!--h:outputText value="#{footer.normProtDatos}" title="#{footer.normProtDatos}"/-->
+								</a>
+							</li>
+							<li>
+								<a href="https://www.hacienda.gob.es/es-ES/El%20Ministerio/Paginas/DPD/Infoart13/Infoart13.aspx" target="_self" 
+										title="Information on data processing by the Ministry">
+									Information on data processing by the Ministry<!--h:outputText value="#{footer.infoTratMin}" title="#{footer.infoTratMin}"/-->
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-20">
+						<h3 class="footer-start-title">
+							Navigation Guide<!--h:outputText value="#{footer.guiaNav}" title="#{footer.guiaNav}"/-->
+						</h3>
+						<ul>
+							<li>
+								<a href="/wps/portal/info/guia_navegacion" target="_self" 
+										title="General Information on navigation Guide">
+									General Information on navigation Guide<!--h:outputText value="#{footer.generalNav}" title="#{footer.generalNav}"/-->
+								</a>
+							</li>
+							<li>
+								<a href="/wps/portal/info/mapa_web" target="_self" 
+										title="Information about Mapa Web">
+									Mapa Web
+								</a>
+							</li>
+						</ul>
+					</div>
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-20">
+					<h3 class="footer-start-title">Accesibility</h3>
+					<ul>
+						<li>
+							<a href="/wps/portal/info/Accesibilidad/" target="_self" 
+								title="Information about Accesibility">
+								Accesibility<!--h:outputText value="#{footer.accesibilidad}" title="#{footer.accesibilidad}"/-->
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-20">
+					<h3 class="footer-start-title">Contact</h3>
+					<ul>
+						<li>
+							<a href="/wps/portal/plataforma/contacto/" target="_self" 
+									title="Contact">
+								Contact
+							</a>
+						</li>
+					</ul> 
+				</div>
+				</div><!-- fin row -->
+			</div><!-- fin footer-start -->
+		  </div><!-- fin container-fluid -->
+		</section>
+		<section class="footer-end">
+		  <div class="footer-container">
+			<a href="#" target="_self" title="Plataforma de Contratación del Sector Público">
+			  <img src='/PlaceThemeDynamic/themes/html/dynamicSpots/images/root/brand-plataforma-contratacion-white.png' alt="Plataforma de Contratación del Sector Público" width="221" height="42" />
+			</a>
+			<menu class="menu-footer">
+			  <ul>
+				<li>
+					<a href="#top" title="Subir arriba">Go up</a>
+					<svg width="20" height="21" viewBox="0 0 20 21" fill="none" title='Go up' xmlns="http://www.w3.org/2000/svg">
+					<path d="M13.3327 10.5402L9.99935 7.20682M9.99935 7.20682L6.66602 10.5402M9.99935 7.20682L9.99935 13.8735M18.3327 10.5402C18.3327 15.1425 14.6017 18.8735 9.99935 18.8735C5.39698 18.8735 1.66602 15.1425 1.66602 10.5402C1.66602 5.93778 5.39698 2.20682 9.99935 2.20682C14.6017 2.20682 18.3327 5.93778 18.3327 10.5402Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+				  </svg>    
+				</li>          
+			  </ul>
+			</menu> 
+		  </div>
+		</section>
+	</footer>
+
+</div>
+
+	<!-- This is responsible for bootstrapping the configuration for the javascript framework.
+        This is located here instead of the head section to improve client performance. -->
+	<div class="stComplementaryContent" id="wpthemeComplementaryContent"
+		role="region" aria-labelledby="stComplementaryContentText">
+		<span class="stDisplayNone" id="stComplementaryContentText">Complementary
+			Content</span> <script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!2hlJLsoNV8d22Zt8lozr1w/mashup/ra:collection?themeID=ZJ_53C4VJVP6C3100IP20H8I910G2&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1774457001132&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"dgpe.TemaPlace","themeRootURI":"/wps/contenthandler/!ut/p/digest!Oz0DwGGQk5RSzfLavfzTxw/war/PlaceThemeStatic/themes/customTheme","themeWebAppBaseURI":"/PlaceThemeDynamic/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:PlaceThemeStatic/themes/customTheme/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!2hlJLsoNV8d22Zt8lozr1w/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Detail","currentContentNodeOID":"Z6_4EOCCFH208S3D02LDUU6HH2082","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"en","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!Zm4cATcBbXfXYVSGZp_J7w/","pocURI":"/wps/portal/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":false,"canImpersonate":false,"themeRootURI":"/PlaceThemeDynamic/themes/html/dynamicSpots","parentPageID":"Z6_4EOCCFH208S3D02LDUU6HH20G2","currentPageOID":"Z6_4EOCCFH208S3D02LDUU6HH2082","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_4EOCCFH208S3D02LDUU6HH2082&#034;&gt;&lt;mapping src=&#034;Z6_53C4VJVP6SIG00IHFDLU150G26&#034; dst=&#034;Z6_4EOCCFH208S3D02LDUU6HH2082&#034;/&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_4EOCCFH208S3D02LDUU6HH2082&#034;/&gt;&lt;mapping src=&#034;Z6_4EOCCFH208S3D02LDUU6HH20G5&#034; dst=&#034;Z6_4EOCCFH208S3D02LDUU6HH2082&#034;/&gt;&lt;mapping src=&#034;Z6_4EOCCFH208S3D02LDUU6HH20G2&#034; dst=&#034;Z6_4EOCCFH208S3D02LDUU6HH2082&#034;/&gt;&lt;mapping src=&#034;Z6_4EOCCFH208S3D02LDUU6HH2082&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_4EOCCFH208S3D02LDUU6HH20G2&#034;/&gt;&lt;node id=&#034;Z6_53C4VJVP6SIG00IHFDLU150G26&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;portlet id=&#034;Z7_AVEQAI930OBRD02JPMTPG21004&#034;&gt;&lt;parameters&gt;&lt;param name=&#034;com.ibm.faces.portlet.VIEWID&#034;&gt;&lt;value&gt;/jsp/busqueda/FormularioBusqueda.jsp&lt;/value&gt;&lt;/param&gt;&lt;/parameters&gt;&lt;/portlet&gt;&lt;portlet id=&#034;Z7_AVEQAI930OBRD02JPMTPG21006&#034;&gt;&lt;parameters&gt;&lt;param name=&#034;com.ibm.faces.portlet.VIEWID&#034;&gt;&lt;value&gt;/jsp/detalle/MainDetalle.jsp&lt;/value&gt;&lt;/param&gt;&lt;/parameters&gt;&lt;/portlet&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dialog_draggable":"0.0","st_fixed_navbar":"0.0","wp_hiddenpages":"0.0","wp_simple_contextmenu_ext":"0.0","wp_simple_contextmenu_js":"0.0","wp_toolbar_sitepreview_menuactions":"0.0","st_navigation":"0.0","wp_portlet_css":"0.0","wp_theme_utils":"0.0","wp_client_selector":"0.0","wp_toolbar_menuactions":"0.0","wp_toolbar_host_view":"0.0","wp_hiddencontent":"0.0","wp_dyncs_TemaPlace":"0.0","wp_portal":"0.0","photon.dom":"1.0","wp_photon_dom":"0.0","wp_toolbar_sitepreview":"0.0","highContrast":"1.0","wp_theme_simple":"0.0","wp_status_bar":"0.0","wp_client_tracing":"0.0","modules":"0.1","wp_draft_page_ribbon":"0.0","wp_state_page_modes":"0.0","wp_toolbar_common_actionbar":"0.0","wp_gridlayout":"0.0","wp_client_main":"0.0","st_layoutGrid":"0.0","wp_toolbar_viewframe_validator":"0.0","wp_high_contrast":"0.0","wp_skin_region":"8.5","wp_toolbar_actionbar":"0.0","simple-contextmenu":"1.1","wp_dialog_css":"0.0","wp_theme_menus":"0.0","st_svg":"0.0","st_notice":"0.0","wp_client_logging":"0.0","wp_state_page":"0.0","wp_toolbar_common":"0.0","wp_toolbar_projectmenu":"0.0","wp_dialog_main":"0.0","wp_simple_contextmenu_main":"0.0","wp_layout_windowstates":"0.0","wp_toolbar_moremenu":"0.0","wp_custom_page_style":"0.0","wp_toolbar_contextmenu":"0.0","wp_searchbar":"0.0","wp_toolbar_informationmode":"0.0","wp_client_ext":"0.0","wp_simple_contextmenu_css":"0.0","wp_toolbar85":"0.0","wp_modules":"0.0","toolbar":"8.5","wp_dialog_util":"0.0","wp_oob_sample_styles":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_a11y":"0.0","st_search":"0.0","wp_simple_contextmenu_templates":"0.0","wp_toolbar_logo":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!Oz0DwGGQk5RSzfLavfzTxw/mashup/ra:collection?themeID=ZJ_53C4VJVP6C3100IP20H8I910G2&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1761122694000&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=st_navigation__0.0%3Aconfig_js&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=st_svg__0.0%3Aconfig_js&amp;entry=st_fixed_navbar__0.0%3Aconfig_js&amp;entry=st_search__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_high_contrast__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js&amp;entry=wp_skin_region__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/wps/contenthandler/!ut/p/digest!Oz0DwGGQk5RSzfLavfzTxw/mashup/ra:collection?themeID=ZJ_53C4VJVP6C3100IP20H8I910G2&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1774457001000&amp;entry=st_skin__0.0%3Aconfig_js&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_gridlayout_inlineedit__0.0%3Aconfig_js&amp;entry=wp_skin_cam__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;deferred=true" style="display:none"> Deferred Modules </a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1" aria-label="${title}"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/wps/contenthandler/!ut/p/digest!S3ruLk4XOPKd9JWxNNgcIg/mashup/ra:collection?themeID=ZJ_53C4VJVP6C3100IP20H8I910G2&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;entry=wp_toolbar_gridlayout_inlineedit__0.0%3Aconfig_markup&amp;entry=wp_skin_cam__0.0%3Aconfig_markup&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"> Deferred Modules </a></div>
+	<script>
+		if (!("ontouchstart" in document)) {
+			document.body.className += ' stNoTouch';
+		}
+	</script>
+</body>
+</html>
+
+<h1></h1>
